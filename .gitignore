@@ -49,3 +49,5 @@ Thumbs.db
 # Logs
 *.log
 '@ | Set-Content .gitignore
+# Keep frontend locally, exclude from GitHub
+/frontend/

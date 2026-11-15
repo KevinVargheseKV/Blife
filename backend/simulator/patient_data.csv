@@ -1,0 +1,1193 @@
+Timestamp,Bed,Profile,Disease,SpO2,HeartRate,RespiratoryRate,AirwayPressure,TidalVolume,FiO2,RiskLevel
+2026-11-15 22:53:54.214751,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,78,16,30,402,45,Stable
+2026-11-15 22:53:54.214765,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,111,27,14,412,86,Warning
+2026-11-15 22:53:54.214776,ICU Bed 3,Critical ARDS,ARDS,85,137,39,17,499,63,Critical
+2026-11-15 22:53:54.214788,ICU Bed 4,Sepsis Recovery,Sepsis,94,102,23,22,494,76,Warning
+2026-11-15 22:53:55.233473,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,80,17,22,583,27,Stable
+2026-11-15 22:53:55.233495,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,115,26,22,619,25,Warning
+2026-11-15 22:53:55.233502,ICU Bed 3,Critical ARDS,ARDS,81,132,40,14,522,42,Critical
+2026-11-15 22:53:55.233507,ICU Bed 4,Sepsis Recovery,Sepsis,93,105,23,10,491,60,Warning
+2026-11-15 22:53:56.245616,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,80,17,29,437,21,Stable
+2026-11-15 22:53:56.245629,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,114,27,16,556,68,Warning
+2026-11-15 22:53:56.245634,ICU Bed 3,Critical ARDS,ARDS,80,131,40,26,598,67,Critical
+2026-11-15 22:53:56.245640,ICU Bed 4,Sepsis Recovery,Sepsis,94,107,22,11,565,43,Warning
+2026-11-15 22:53:57.253662,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,80,17,22,635,36,Stable
+2026-11-15 22:53:57.253678,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,114,28,11,451,26,Warning
+2026-11-15 22:53:57.253686,ICU Bed 3,Critical ARDS,ARDS,80,130,40,23,456,27,Critical
+2026-11-15 22:53:57.253693,ICU Bed 4,Sepsis Recovery,Sepsis,94,105,22,13,411,96,Warning
+2026-11-15 22:53:58.265958,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,82,16,21,494,86,Stable
+2026-11-15 22:53:58.265976,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,115,28,14,421,55,Warning
+2026-11-15 22:53:58.265984,ICU Bed 3,Critical ARDS,ARDS,82,136,40,29,580,42,Critical
+2026-11-15 22:53:58.265992,ICU Bed 4,Sepsis Recovery,Sepsis,94,103,21,15,619,79,Warning
+2026-11-15 22:53:59.284579,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,84,17,10,570,72,Stable
+2026-11-15 22:53:59.284615,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,118,26,25,616,58,Warning
+2026-11-15 22:53:59.284632,ICU Bed 3,Critical ARDS,ARDS,80,137,40,27,416,77,Critical
+2026-11-15 22:53:59.284647,ICU Bed 4,Sepsis Recovery,Sepsis,94,104,21,22,591,62,Warning
+2026-11-15 22:54:00.303847,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,85,16,18,509,31,Stable
+2026-11-15 22:54:00.303870,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,114,25,17,442,33,Warning
+2026-11-15 22:54:00.303883,ICU Bed 3,Critical ARDS,ARDS,80,136,40,14,473,95,Critical
+2026-11-15 22:54:00.303892,ICU Bed 4,Sepsis Recovery,Sepsis,93,105,21,21,566,35,Warning
+2026-11-15 22:54:01.323192,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,85,17,24,644,27,Warning
+2026-11-15 22:54:01.323220,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,113,24,25,627,31,Warning
+2026-11-15 22:54:01.323236,ICU Bed 3,Critical ARDS,ARDS,80,136,40,21,450,71,Critical
+2026-11-15 22:54:01.323249,ICU Bed 4,Sepsis Recovery,Sepsis,92,108,22,16,599,75,Warning
+2026-11-15 22:54:02.334324,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,27,604,71,Stable
+2026-11-15 22:54:02.334354,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,111,24,27,532,24,Warning
+2026-11-15 22:54:02.334370,ICU Bed 3,Critical ARDS,ARDS,81,133,40,20,461,68,Critical
+2026-11-15 22:54:02.334384,ICU Bed 4,Sepsis Recovery,Sepsis,92,109,21,19,517,77,Warning
+2026-11-15 22:54:03.350642,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,16,560,36,Stable
+2026-11-15 22:54:03.350669,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,109,26,12,553,35,Warning
+2026-11-15 22:54:03.350686,ICU Bed 3,Critical ARDS,ARDS,80,131,38,24,536,77,Critical
+2026-11-15 22:54:03.350699,ICU Bed 4,Sepsis Recovery,Sepsis,93,111,21,14,414,53,Warning
+2026-11-15 22:54:04.373520,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,28,445,83,Stable
+2026-11-15 22:54:04.373560,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,113,28,24,513,84,Warning
+2026-11-15 22:54:04.373582,ICU Bed 3,Critical ARDS,ARDS,80,130,40,17,489,55,Critical
+2026-11-15 22:54:04.373603,ICU Bed 4,Sepsis Recovery,Sepsis,94,114,22,25,522,56,Warning
+2026-11-15 22:54:05.393164,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,25,409,29,Stable
+2026-11-15 22:54:05.393182,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,117,28,28,599,23,Stable
+2026-11-15 22:54:05.393191,ICU Bed 3,Critical ARDS,ARDS,80,129,38,28,612,56,Critical
+2026-11-15 22:54:05.393209,ICU Bed 4,Sepsis Recovery,Sepsis,94,116,22,27,599,61,Warning
+2026-11-15 22:54:06.403093,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,20,25,581,60,Stable
+2026-11-15 22:54:06.403104,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,20,11,590,21,Stable
+2026-11-15 22:54:06.403110,ICU Bed 3,Critical ARDS,ARDS,80,133,39,29,601,45,Critical
+2026-11-15 22:54:06.403115,ICU Bed 4,Sepsis Recovery,Sepsis,94,118,21,27,587,55,Warning
+2026-11-15 22:54:07.417465,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,99,19,13,562,69,Stable
+2026-11-15 22:54:07.417477,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,20,27,435,44,Stable
+2026-11-15 22:54:07.417484,ICU Bed 3,Critical ARDS,ARDS,82,138,40,21,405,75,Critical
+2026-11-15 22:54:07.417491,ICU Bed 4,Sepsis Recovery,Sepsis,93,120,21,19,582,53,Warning
+2026-11-15 22:54:08.426036,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,26,460,73,Warning
+2026-11-15 22:54:08.426060,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,20,17,463,34,Stable
+2026-11-15 22:54:08.426073,ICU Bed 3,Critical ARDS,ARDS,81,132,40,28,609,91,Warning
+2026-11-15 22:54:08.426083,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,21,24,491,88,Warning
+2026-11-15 22:54:09.434881,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,17,551,73,Warning
+2026-11-15 22:54:09.434899,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,94,20,16,516,90,Stable
+2026-11-15 22:54:09.434909,ICU Bed 3,Critical ARDS,ARDS,90,120,28,14,559,47,Warning
+2026-11-15 22:54:09.434917,ICU Bed 4,Sepsis Recovery,Sepsis,92,119,21,21,530,40,Warning
+2026-11-15 22:54:10.456780,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,101,22,23,501,48,Warning
+2026-11-15 22:54:10.456821,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,97,19,26,498,60,Stable
+2026-11-15 22:54:10.456850,ICU Bed 3,Critical ARDS,ARDS,90,120,28,14,598,34,Warning
+2026-11-15 22:54:10.456875,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,21,24,640,87,Warning
+2026-11-15 22:54:11.483799,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,21,611,88,Warning
+2026-11-15 22:54:11.483827,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,96,20,24,402,56,Stable
+2026-11-15 22:54:11.483843,ICU Bed 3,Critical ARDS,ARDS,92,120,28,12,464,54,Warning
+2026-11-15 22:54:11.483857,ICU Bed 4,Sepsis Recovery,Sepsis,91,118,22,10,575,78,Warning
+2026-11-15 22:54:12.507676,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,101,21,23,630,94,Warning
+2026-11-15 22:54:12.507699,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,20,17,407,36,Stable
+2026-11-15 22:54:12.507715,ICU Bed 3,Critical ARDS,ARDS,90,117,28,28,506,86,Warning
+2026-11-15 22:54:12.507728,ICU Bed 4,Sepsis Recovery,Sepsis,90,119,22,19,590,66,Warning
+2026-11-15 22:54:13.526667,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,14,619,88,Warning
+2026-11-15 22:54:13.526690,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,20,11,554,34,Stable
+2026-11-15 22:54:13.526704,ICU Bed 3,Critical ARDS,ARDS,91,117,26,19,565,33,Warning
+2026-11-15 22:54:13.526712,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,22,19,481,85,Warning
+2026-11-15 22:54:14.547105,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,102,22,28,596,27,Warning
+2026-11-15 22:54:14.547130,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,98,20,19,451,51,Stable
+2026-11-15 22:54:14.547142,ICU Bed 3,Critical ARDS,ARDS,93,119,27,20,633,57,Warning
+2026-11-15 22:54:14.547153,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,21,24,477,55,Warning
+2026-11-15 22:54:15.565577,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,103,21,20,517,62,Warning
+2026-11-15 22:54:15.565591,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,20,18,507,79,Stable
+2026-11-15 22:54:15.565598,ICU Bed 3,Critical ARDS,ARDS,93,113,25,17,403,54,Warning
+2026-11-15 22:54:15.565603,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,22,30,486,39,Warning
+2026-11-15 22:54:16.579603,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,103,21,27,490,99,Warning
+2026-11-15 22:54:16.579643,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,20,28,515,42,Stable
+2026-11-15 22:54:16.579668,ICU Bed 3,Critical ARDS,ARDS,92,110,26,25,424,53,Warning
+2026-11-15 22:54:16.579691,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,21,24,416,79,Warning
+2026-11-15 22:54:17.600071,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,104,21,20,618,63,Warning
+2026-11-15 22:54:17.600088,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,96,20,11,642,68,Stable
+2026-11-15 22:54:17.600098,ICU Bed 3,Critical ARDS,ARDS,93,115,23,11,645,26,Warning
+2026-11-15 22:54:17.600106,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,21,26,471,69,Warning
+2026-11-15 22:54:18.618862,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,104,22,20,408,63,Warning
+2026-11-15 22:54:18.618873,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,20,12,522,87,Stable
+2026-11-15 22:54:18.618878,ICU Bed 3,Critical ARDS,ARDS,94,111,25,12,421,66,Warning
+2026-11-15 22:54:18.618882,ICU Bed 4,Sepsis Recovery,Sepsis,91,119,21,28,623,64,Warning
+2026-11-15 22:54:19.636541,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,103,22,10,578,65,Warning
+2026-11-15 22:54:19.636559,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,92,20,29,603,60,Stable
+2026-11-15 22:54:19.636567,ICU Bed 3,Critical ARDS,ARDS,90,109,26,21,575,32,Warning
+2026-11-15 22:54:19.636574,ICU Bed 4,Sepsis Recovery,Sepsis,90,119,22,21,636,65,Warning
+2026-11-15 22:54:20.662926,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,102,22,30,440,40,Warning
+2026-11-15 22:54:20.662952,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,90,20,15,608,47,Stable
+2026-11-15 22:54:20.662968,ICU Bed 3,Critical ARDS,ARDS,91,114,26,23,472,46,Warning
+2026-11-15 22:54:20.662982,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,22,20,466,33,Warning
+2026-11-15 22:54:21.683837,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,102,23,14,640,32,Warning
+2026-11-15 22:54:21.683852,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,92,20,22,633,66,Stable
+2026-11-15 22:54:21.683858,ICU Bed 3,Critical ARDS,ARDS,90,119,28,23,637,44,Warning
+2026-11-15 22:54:21.683866,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,23,10,606,21,Warning
+2026-11-15 22:54:22.703425,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,101,22,29,537,100,Warning
+2026-11-15 22:54:22.703437,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,90,20,29,580,68,Stable
+2026-11-15 22:54:22.703442,ICU Bed 3,Critical ARDS,ARDS,91,114,28,26,540,35,Warning
+2026-11-15 22:54:22.703446,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,30,493,65,Warning
+2026-11-15 22:54:23.720308,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,91,101,23,22,483,23,Warning
+2026-11-15 22:54:23.720319,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,92,20,12,530,96,Stable
+2026-11-15 22:54:23.720325,ICU Bed 3,Critical ARDS,ARDS,91,117,28,16,561,78,Warning
+2026-11-15 22:54:23.720329,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,12,404,35,Warning
+2026-11-15 22:54:24.737634,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,101,22,10,531,57,Critical
+2026-11-15 22:54:24.737645,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,90,20,20,516,87,Stable
+2026-11-15 22:54:24.737650,ICU Bed 3,Critical ARDS,ARDS,90,120,28,12,547,33,Warning
+2026-11-15 22:54:24.737655,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,22,24,438,42,Warning
+2026-11-15 22:54:25.753669,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,121,29,16,472,30,Critical
+2026-11-15 22:54:25.753680,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,91,18,13,475,54,Stable
+2026-11-15 22:54:25.753686,ICU Bed 3,Critical ARDS,ARDS,90,120,27,18,474,34,Warning
+2026-11-15 22:54:25.753690,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,12,441,22,Warning
+2026-11-15 22:54:26.768723,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,123,29,26,536,44,Critical
+2026-11-15 22:54:26.768755,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,91,19,16,591,95,Stable
+2026-11-15 22:54:26.768770,ICU Bed 3,Critical ARDS,ARDS,90,120,28,26,421,27,Warning
+2026-11-15 22:54:26.768784,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,15,573,72,Warning
+2026-11-15 22:54:27.786563,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,123,29,12,633,73,Critical
+2026-11-15 22:54:27.786576,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,92,20,12,437,75,Stable
+2026-11-15 22:54:27.786582,ICU Bed 3,Critical ARDS,ARDS,90,114,27,14,499,91,Warning
+2026-11-15 22:54:27.786587,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,22,28,542,38,Warning
+2026-11-15 22:54:28.808389,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,123,29,16,492,66,Critical
+2026-11-15 22:54:28.808400,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,90,20,16,454,77,Warning
+2026-11-15 22:54:28.808405,ICU Bed 3,Critical ARDS,ARDS,90,120,24,18,515,51,Warning
+2026-11-15 22:54:28.808409,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,14,553,99,Warning
+2026-11-15 22:54:29.827233,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,123,29,20,539,92,Critical
+2026-11-15 22:54:29.827248,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,101,21,27,623,48,Warning
+2026-11-15 22:54:29.827253,ICU Bed 3,Critical ARDS,ARDS,90,120,26,15,568,71,Warning
+2026-11-15 22:54:29.827258,ICU Bed 4,Sepsis Recovery,Sepsis,90,118,23,12,518,98,Warning
+2026-11-15 22:54:30.843333,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,121,29,21,643,56,Critical
+2026-11-15 22:54:30.843360,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,103,23,27,641,25,Warning
+2026-11-15 22:54:30.843375,ICU Bed 3,Critical ARDS,ARDS,90,120,24,21,414,55,Warning
+2026-11-15 22:54:30.843388,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,24,28,610,36,Warning
+2026-11-15 22:54:31.866851,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,121,30,22,600,77,Critical
+2026-11-15 22:54:31.866867,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,104,25,18,480,73,Warning
+2026-11-15 22:54:31.866875,ICU Bed 3,Critical ARDS,ARDS,90,120,25,22,530,59,Warning
+2026-11-15 22:54:31.866882,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,23,25,535,69,Warning
+2026-11-15 22:54:32.891885,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,121,31,11,532,97,Critical
+2026-11-15 22:54:32.891903,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,105,26,15,485,23,Warning
+2026-11-15 22:54:32.891913,ICU Bed 3,Critical ARDS,ARDS,92,114,27,28,432,48,Warning
+2026-11-15 22:54:32.891920,ICU Bed 4,Sepsis Recovery,Sepsis,90,118,24,13,592,69,Warning
+2026-11-15 22:54:33.910570,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,121,31,20,415,82,Critical
+2026-11-15 22:54:33.910589,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,102,27,17,453,91,Warning
+2026-11-15 22:54:33.910598,ICU Bed 3,Critical ARDS,ARDS,92,117,27,10,467,66,Warning
+2026-11-15 22:54:33.910605,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,25,12,556,93,Warning
+2026-11-15 22:54:34.943210,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,122,32,26,490,44,Critical
+2026-11-15 22:54:34.943235,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,102,26,23,461,87,Warning
+2026-11-15 22:54:34.943248,ICU Bed 3,Critical ARDS,ARDS,90,120,27,28,581,75,Warning
+2026-11-15 22:54:34.943255,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,25,12,566,65,Warning
+2026-11-15 22:54:35.959066,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,86,123,31,16,612,46,Critical
+2026-11-15 22:54:35.959106,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,105,28,10,633,98,Warning
+2026-11-15 22:54:35.959122,ICU Bed 3,Critical ARDS,ARDS,90,120,27,28,414,92,Warning
+2026-11-15 22:54:35.959133,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,24,19,543,38,Warning
+2026-11-15 22:54:36.987475,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,121,32,20,589,99,Critical
+2026-11-15 22:54:36.987501,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,104,26,16,443,27,Critical
+2026-11-15 22:54:36.987512,ICU Bed 3,Critical ARDS,ARDS,90,117,28,10,479,42,Warning
+2026-11-15 22:54:36.987522,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,23,19,487,60,Warning
+2026-11-15 22:54:38.009993,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,86,121,33,29,542,53,Critical
+2026-11-15 22:54:38.010012,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,29,30,477,67,Critical
+2026-11-15 22:54:38.010023,ICU Bed 3,Critical ARDS,ARDS,90,118,28,19,439,65,Warning
+2026-11-15 22:54:38.010032,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,24,24,574,72,Stable
+2026-11-15 22:54:39.028485,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,121,34,23,507,63,Critical
+2026-11-15 22:54:39.028508,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,31,15,515,56,Critical
+2026-11-15 22:54:39.028526,ICU Bed 3,Critical ARDS,ARDS,90,120,28,22,634,57,Warning
+2026-11-15 22:54:39.028541,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,23,591,35,Stable
+2026-11-15 22:54:40.049179,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,87,121,33,28,518,66,Critical
+2026-11-15 22:54:40.049236,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,123,34,18,521,47,Critical
+2026-11-15 22:54:40.049255,ICU Bed 3,Critical ARDS,ARDS,90,120,28,27,600,28,Warning
+2026-11-15 22:54:40.049279,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,30,608,86,Stable
+2026-11-15 22:54:41.069451,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,123,34,24,541,91,Critical
+2026-11-15 22:54:41.069467,ICU Bed 2,Pneumonia Monitoring,Pneumonia,88,127,36,28,603,28,Critical
+2026-11-15 22:54:41.069476,ICU Bed 3,Critical ARDS,ARDS,92,114,28,12,451,39,Critical
+2026-11-15 22:54:41.069483,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,20,422,76,Stable
+2026-11-15 22:54:42.093964,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,123,34,12,543,67,Critical
+2026-11-15 22:54:42.093976,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,129,35,21,622,34,Critical
+2026-11-15 22:54:42.093982,ICU Bed 3,Critical ARDS,ARDS,89,121,29,27,562,65,Critical
+2026-11-15 22:54:42.093987,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,29,630,32,Stable
+2026-11-15 22:54:43.110984,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,125,35,29,490,24,Critical
+2026-11-15 22:54:43.110995,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,126,33,22,572,68,Warning
+2026-11-15 22:54:43.111000,ICU Bed 3,Critical ARDS,ARDS,89,121,34,10,415,30,Critical
+2026-11-15 22:54:43.111005,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,18,28,460,41,Stable
+2026-11-15 22:54:44.129432,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,125,34,21,649,93,Critical
+2026-11-15 22:54:44.129476,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,21,476,85,Warning
+2026-11-15 22:54:44.129498,ICU Bed 3,Critical ARDS,ARDS,89,123,38,24,506,68,Critical
+2026-11-15 22:54:44.129520,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,18,22,544,88,Stable
+2026-11-15 22:54:45.145830,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,127,33,30,453,80,Critical
+2026-11-15 22:54:45.145844,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,119,27,20,443,63,Stable
+2026-11-15 22:54:45.145852,ICU Bed 3,Critical ARDS,ARDS,88,121,40,24,588,43,Critical
+2026-11-15 22:54:45.145858,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,19,23,524,21,Stable
+2026-11-15 22:54:46.166449,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,89,128,32,26,449,37,Critical
+2026-11-15 22:54:46.166461,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,20,13,613,62,Stable
+2026-11-15 22:54:46.166466,ICU Bed 3,Critical ARDS,ARDS,89,121,40,17,645,62,Critical
+2026-11-15 22:54:46.166471,ICU Bed 4,Sepsis Recovery,Sepsis,97,98,20,26,476,54,Stable
+2026-11-15 22:54:47.181773,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,130,31,16,447,56,Critical
+2026-11-15 22:54:47.181831,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,19,19,415,96,Stable
+2026-11-15 22:54:47.181837,ICU Bed 3,Critical ARDS,ARDS,88,122,40,30,616,69,Critical
+2026-11-15 22:54:47.181844,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,10,591,73,Stable
+2026-11-15 22:54:48.201892,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,88,128,30,29,478,81,Warning
+2026-11-15 22:54:48.201904,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,98,17,30,415,33,Stable
+2026-11-15 22:54:48.201910,ICU Bed 3,Critical ARDS,ARDS,87,123,38,28,639,30,Critical
+2026-11-15 22:54:48.201915,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,26,506,99,Stable
+2026-11-15 22:54:49.219427,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,90,120,28,26,441,41,Warning
+2026-11-15 22:54:49.219466,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,19,25,592,30,Stable
+2026-11-15 22:54:49.219496,ICU Bed 3,Critical ARDS,ARDS,88,121,40,17,547,37,Critical
+2026-11-15 22:54:49.219520,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,13,582,37,Stable
+2026-11-15 22:54:50.250235,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,90,120,27,19,574,36,Warning
+2026-11-15 22:54:50.250255,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,17,19,545,58,Stable
+2026-11-15 22:54:50.250262,ICU Bed 3,Critical ARDS,ARDS,87,125,39,23,625,27,Critical
+2026-11-15 22:54:50.250267,ICU Bed 4,Sepsis Recovery,Sepsis,96,98,19,29,523,37,Stable
+2026-11-15 22:54:51.269507,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,90,120,28,18,466,73,Warning
+2026-11-15 22:54:51.269519,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,18,19,414,99,Stable
+2026-11-15 22:54:51.269524,ICU Bed 3,Critical ARDS,ARDS,89,128,40,25,525,49,Critical
+2026-11-15 22:54:51.269529,ICU Bed 4,Sepsis Recovery,Sepsis,97,98,18,29,487,40,Stable
+2026-11-15 22:54:52.289405,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,91,120,28,12,470,52,Warning
+2026-11-15 22:54:52.289425,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,98,16,28,598,70,Stable
+2026-11-15 22:54:52.289434,ICU Bed 3,Critical ARDS,ARDS,89,130,39,15,619,77,Critical
+2026-11-15 22:54:52.289445,ICU Bed 4,Sepsis Recovery,Sepsis,96,97,17,29,600,67,Stable
+2026-11-15 22:54:53.304123,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,120,28,25,622,88,Stable
+2026-11-15 22:54:53.304134,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,100,18,24,644,94,Warning
+2026-11-15 22:54:53.304139,ICU Bed 3,Critical ARDS,ARDS,89,135,39,17,599,75,Critical
+2026-11-15 22:54:53.304143,ICU Bed 4,Sepsis Recovery,Sepsis,97,99,17,21,501,41,Stable
+2026-11-15 22:54:54.320945,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,19,597,65,Stable
+2026-11-15 22:54:54.320959,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,101,21,20,543,99,Warning
+2026-11-15 22:54:54.320965,ICU Bed 3,Critical ARDS,ARDS,86,138,38,25,572,44,Critical
+2026-11-15 22:54:54.320971,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,18,14,451,76,Stable
+2026-11-15 22:54:55.339318,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,20,12,542,81,Stable
+2026-11-15 22:54:55.339336,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,102,22,25,638,70,Warning
+2026-11-15 22:54:55.339343,ICU Bed 3,Critical ARDS,ARDS,85,134,38,30,484,95,Critical
+2026-11-15 22:54:55.339350,ICU Bed 4,Sepsis Recovery,Sepsis,97,99,17,23,562,29,Stable
+2026-11-15 22:54:56.357783,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,20,16,420,46,Stable
+2026-11-15 22:54:56.357796,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,101,21,30,610,93,Warning
+2026-11-15 22:54:56.357802,ICU Bed 3,Critical ARDS,ARDS,84,130,36,21,473,31,Critical
+2026-11-15 22:54:56.357809,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,18,22,410,71,Stable
+2026-11-15 22:54:57.392090,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,25,611,63,Stable
+2026-11-15 22:54:57.392101,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,101,22,10,478,22,Warning
+2026-11-15 22:54:57.392106,ICU Bed 3,Critical ARDS,ARDS,86,124,37,28,618,89,Critical
+2026-11-15 22:54:57.392110,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,19,23,573,37,Stable
+2026-11-15 22:54:58.415174,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,20,474,70,Stable
+2026-11-15 22:54:58.415255,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,101,21,17,525,98,Warning
+2026-11-15 22:54:58.415267,ICU Bed 3,Critical ARDS,ARDS,86,122,40,11,506,100,Critical
+2026-11-15 22:54:58.415274,ICU Bed 4,Sepsis Recovery,Sepsis,99,99,18,17,485,82,Stable
+2026-11-15 22:54:59.436459,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,18,19,427,48,Stable
+2026-11-15 22:54:59.436475,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,104,22,17,563,79,Warning
+2026-11-15 22:54:59.436485,ICU Bed 3,Critical ARDS,ARDS,82,121,38,17,560,93,Critical
+2026-11-15 22:54:59.436493,ICU Bed 4,Sepsis Recovery,Sepsis,100,99,17,25,469,54,Stable
+2026-11-15 22:55:00.454897,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,18,20,648,38,Stable
+2026-11-15 22:55:00.454909,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,107,23,18,434,63,Warning
+2026-11-15 22:55:00.454914,ICU Bed 3,Critical ARDS,ARDS,82,124,37,14,576,59,Critical
+2026-11-15 22:55:00.454918,ICU Bed 4,Sepsis Recovery,Sepsis,100,98,16,10,468,36,Stable
+2026-11-15 22:55:01.477509,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,25,468,56,Stable
+2026-11-15 22:55:01.477523,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,109,25,16,440,72,Warning
+2026-11-15 22:55:01.477528,ICU Bed 3,Critical ARDS,ARDS,83,121,35,25,560,47,Critical
+2026-11-15 22:55:01.477533,ICU Bed 4,Sepsis Recovery,Sepsis,100,99,16,28,461,51,Stable
+2026-11-15 22:55:02.497030,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,28,449,49,Stable
+2026-11-15 22:55:02.497066,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,107,25,27,415,24,Warning
+2026-11-15 22:55:02.497085,ICU Bed 3,Critical ARDS,ARDS,82,121,38,28,498,82,Critical
+2026-11-15 22:55:02.497101,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,15,30,517,80,Stable
+2026-11-15 22:55:03.520215,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,20,610,69,Stable
+2026-11-15 22:55:03.520246,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,109,27,15,626,81,Warning
+2026-11-15 22:55:03.520260,ICU Bed 3,Critical ARDS,ARDS,81,124,38,22,483,51,Critical
+2026-11-15 22:55:03.520274,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,15,20,575,30,Stable
+2026-11-15 22:55:04.533664,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,19,16,400,21,Stable
+2026-11-15 22:55:04.533685,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,107,26,29,600,58,Warning
+2026-11-15 22:55:04.533694,ICU Bed 3,Critical ARDS,ARDS,81,130,40,15,482,61,Critical
+2026-11-15 22:55:04.533702,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,15,25,537,99,Stable
+2026-11-15 22:55:05.555248,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,26,459,97,Stable
+2026-11-15 22:55:05.555287,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,104,27,27,571,79,Warning
+2026-11-15 22:55:05.555311,ICU Bed 3,Critical ARDS,ARDS,83,128,40,29,558,54,Critical
+2026-11-15 22:55:05.555329,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,14,10,400,34,Stable
+2026-11-15 22:55:06.581315,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,18,20,484,21,Stable
+2026-11-15 22:55:06.581364,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,104,28,11,441,45,Warning
+2026-11-15 22:55:06.581376,ICU Bed 3,Critical ARDS,ARDS,84,134,40,14,531,80,Critical
+2026-11-15 22:55:06.581388,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,15,19,568,90,Stable
+2026-11-15 22:55:07.597102,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,28,497,79,Stable
+2026-11-15 22:55:07.597128,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,107,28,28,440,48,Warning
+2026-11-15 22:55:07.597144,ICU Bed 3,Critical ARDS,ARDS,83,135,37,20,614,93,Warning
+2026-11-15 22:55:07.597156,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,14,24,481,22,Stable
+2026-11-15 22:55:08.658685,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,20,15,497,64,Stable
+2026-11-15 22:55:08.658696,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,110,28,25,548,44,Warning
+2026-11-15 22:55:08.658702,ICU Bed 3,Critical ARDS,ARDS,90,120,28,27,462,49,Warning
+2026-11-15 22:55:08.658706,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,14,20,425,85,Stable
+2026-11-15 22:55:09.673529,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,20,14,415,26,Stable
+2026-11-15 22:55:09.673556,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,112,28,13,437,31,Warning
+2026-11-15 22:55:09.673571,ICU Bed 3,Critical ARDS,ARDS,92,120,28,12,475,76,Warning
+2026-11-15 22:55:09.673583,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,13,21,593,74,Stable
+2026-11-15 22:55:10.689877,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,19,22,409,66,Stable
+2026-11-15 22:55:10.689906,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,114,28,27,528,41,Warning
+2026-11-15 22:55:10.689922,ICU Bed 3,Critical ARDS,ARDS,93,120,26,13,632,40,Warning
+2026-11-15 22:55:10.689935,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,13,10,489,38,Stable
+2026-11-15 22:55:11.712005,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,19,25,425,62,Stable
+2026-11-15 22:55:11.712016,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,116,28,22,556,61,Warning
+2026-11-15 22:55:11.712021,ICU Bed 3,Critical ARDS,ARDS,93,116,26,19,451,33,Warning
+2026-11-15 22:55:11.712026,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,12,10,587,77,Warning
+2026-11-15 22:55:12.722630,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,19,22,595,22,Stable
+2026-11-15 22:55:12.722655,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,13,560,72,Warning
+2026-11-15 22:55:12.722670,ICU Bed 3,Critical ARDS,ARDS,92,118,28,19,443,44,Warning
+2026-11-15 22:55:12.722682,ICU Bed 4,Sepsis Recovery,Sepsis,94,105,21,30,638,75,Warning
+2026-11-15 22:55:13.742334,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,20,15,469,94,Stable
+2026-11-15 22:55:13.742346,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,27,473,60,Warning
+2026-11-15 22:55:13.742352,ICU Bed 3,Critical ARDS,ARDS,90,120,28,23,483,27,Warning
+2026-11-15 22:55:13.742357,ICU Bed 4,Sepsis Recovery,Sepsis,93,105,21,21,591,59,Warning
+2026-11-15 22:55:14.755365,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,19,26,612,63,Stable
+2026-11-15 22:55:14.755377,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,25,498,83,Warning
+2026-11-15 22:55:14.755382,ICU Bed 3,Critical ARDS,ARDS,90,120,25,29,617,29,Warning
+2026-11-15 22:55:14.755387,ICU Bed 4,Sepsis Recovery,Sepsis,93,105,22,24,413,93,Stable
+2026-11-15 22:55:15.771648,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,18,28,643,96,Stable
+2026-11-15 22:55:15.771661,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,119,27,21,506,100,Warning
+2026-11-15 22:55:15.771666,ICU Bed 3,Critical ARDS,ARDS,90,117,27,21,550,44,Warning
+2026-11-15 22:55:15.771671,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,10,540,97,Stable
+2026-11-15 22:55:16.786472,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,17,22,640,88,Stable
+2026-11-15 22:55:16.786522,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,120,28,25,473,52,Warning
+2026-11-15 22:55:16.786551,ICU Bed 3,Critical ARDS,ARDS,90,118,28,28,404,78,Warning
+2026-11-15 22:55:16.786570,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,16,627,95,Stable
+2026-11-15 22:55:17.810423,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,16,27,592,52,Stable
+2026-11-15 22:55:17.810435,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,120,28,29,599,25,Warning
+2026-11-15 22:55:17.810441,ICU Bed 3,Critical ARDS,ARDS,90,117,27,10,408,79,Warning
+2026-11-15 22:55:17.810447,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,11,561,100,Stable
+2026-11-15 22:55:18.825293,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,15,16,526,67,Stable
+2026-11-15 22:55:18.825312,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,120,28,26,412,78,Warning
+2026-11-15 22:55:18.825323,ICU Bed 3,Critical ARDS,ARDS,90,120,26,26,632,36,Warning
+2026-11-15 22:55:18.825332,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,18,415,35,Stable
+2026-11-15 22:55:19.845595,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,94,16,18,491,43,Stable
+2026-11-15 22:55:19.845612,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,120,27,19,595,26,Warning
+2026-11-15 22:55:19.845621,ICU Bed 3,Critical ARDS,ARDS,90,120,25,24,532,74,Warning
+2026-11-15 22:55:19.845628,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,19,514,62,Stable
+2026-11-15 22:55:20.859494,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,93,16,12,480,26,Stable
+2026-11-15 22:55:20.859513,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,120,28,20,437,34,Warning
+2026-11-15 22:55:20.859527,ICU Bed 3,Critical ARDS,ARDS,93,120,27,16,481,94,Warning
+2026-11-15 22:55:20.859539,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,19,482,81,Stable
+2026-11-15 22:55:21.876458,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,94,17,21,632,96,Stable
+2026-11-15 22:55:21.876482,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,119,28,17,573,58,Warning
+2026-11-15 22:55:21.876497,ICU Bed 3,Critical ARDS,ARDS,92,120,28,30,640,82,Warning
+2026-11-15 22:55:21.876509,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,16,502,83,Stable
+2026-11-15 22:55:22.896533,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,94,17,13,420,58,Stable
+2026-11-15 22:55:22.896553,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,120,27,23,500,29,Warning
+2026-11-15 22:55:22.896562,ICU Bed 3,Critical ARDS,ARDS,94,120,27,17,416,88,Critical
+2026-11-15 22:55:22.896571,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,18,15,593,77,Stable
+2026-11-15 22:55:23.916090,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,93,17,12,599,80,Stable
+2026-11-15 22:55:23.916110,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,120,25,11,622,50,Critical
+2026-11-15 22:55:23.916121,ICU Bed 3,Critical ARDS,ARDS,89,121,29,10,592,39,Critical
+2026-11-15 22:55:23.916128,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,18,26,515,51,Stable
+2026-11-15 22:55:24.928067,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,95,18,21,609,80,Stable
+2026-11-15 22:55:24.928093,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,29,29,603,61,Critical
+2026-11-15 22:55:24.928108,ICU Bed 3,Critical ARDS,ARDS,88,124,30,13,480,51,Critical
+2026-11-15 22:55:24.928120,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,17,17,464,59,Stable
+2026-11-15 22:55:25.947454,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,18,12,413,94,Stable
+2026-11-15 22:55:25.947481,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,121,29,25,522,27,Critical
+2026-11-15 22:55:25.947496,ICU Bed 3,Critical ARDS,ARDS,89,130,33,15,597,21,Critical
+2026-11-15 22:55:25.947508,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,17,16,499,60,Stable
+2026-11-15 22:55:26.965193,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,17,15,452,66,Stable
+2026-11-15 22:55:26.965215,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,124,30,11,498,61,Critical
+2026-11-15 22:55:26.965229,ICU Bed 3,Critical ARDS,ARDS,89,133,37,12,641,35,Critical
+2026-11-15 22:55:26.965239,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,16,19,513,46,Stable
+2026-11-15 22:55:27.986346,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,17,20,570,37,Stable
+2026-11-15 22:55:27.986389,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,126,32,19,630,94,Critical
+2026-11-15 22:55:27.986416,ICU Bed 3,Critical ARDS,ARDS,89,135,40,14,512,59,Critical
+2026-11-15 22:55:27.986440,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,17,17,418,95,Stable
+2026-11-15 22:55:29.006487,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,97,17,16,503,99,Warning
+2026-11-15 22:55:29.006506,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,128,31,18,577,60,Warning
+2026-11-15 22:55:29.006516,ICU Bed 3,Critical ARDS,ARDS,89,129,40,14,433,50,Critical
+2026-11-15 22:55:29.006523,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,23,444,58,Stable
+2026-11-15 22:55:30.023451,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,27,400,65,Warning
+2026-11-15 22:55:30.023471,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,21,631,42,Warning
+2026-11-15 22:55:30.023481,ICU Bed 3,Critical ARDS,ARDS,87,135,40,19,417,33,Critical
+2026-11-15 22:55:30.023488,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,17,17,448,89,Stable
+2026-11-15 22:55:31.042631,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,22,21,566,33,Warning
+2026-11-15 22:55:31.042658,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,10,552,31,Warning
+2026-11-15 22:55:31.042673,ICU Bed 3,Critical ARDS,ARDS,89,141,40,26,634,24,Critical
+2026-11-15 22:55:31.042686,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,13,545,79,Stable
+2026-11-15 22:55:32.061233,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,102,23,23,639,37,Warning
+2026-11-15 22:55:32.061251,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,116,28,20,433,84,Warning
+2026-11-15 22:55:32.061261,ICU Bed 3,Critical ARDS,ARDS,88,141,40,27,554,97,Critical
+2026-11-15 22:55:32.061270,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,30,564,52,Stable
+2026-11-15 22:55:33.080603,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,104,22,24,603,70,Warning
+2026-11-15 22:55:33.080626,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,115,28,13,581,74,Warning
+2026-11-15 22:55:33.080637,ICU Bed 3,Critical ARDS,ARDS,88,145,39,14,476,53,Critical
+2026-11-15 22:55:33.080648,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,15,25,481,32,Stable
+2026-11-15 22:55:34.100750,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,103,22,16,565,55,Warning
+2026-11-15 22:55:34.100776,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,114,27,28,570,40,Warning
+2026-11-15 22:55:34.100802,ICU Bed 3,Critical ARDS,ARDS,87,150,40,25,537,89,Critical
+2026-11-15 22:55:34.100817,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,16,19,414,61,Stable
+2026-11-15 22:55:35.124714,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,103,23,15,466,100,Warning
+2026-11-15 22:55:35.124741,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,117,28,17,540,54,Warning
+2026-11-15 22:55:35.124756,ICU Bed 3,Critical ARDS,ARDS,82,150,40,23,427,94,Critical
+2026-11-15 22:55:35.124769,ICU Bed 4,Sepsis Recovery,Sepsis,98,99,16,27,467,74,Stable
+2026-11-15 22:55:36.147318,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,103,22,18,486,46,Warning
+2026-11-15 22:55:36.147343,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,113,26,30,466,81,Warning
+2026-11-15 22:55:36.147358,ICU Bed 3,Critical ARDS,ARDS,83,145,39,19,441,59,Critical
+2026-11-15 22:55:36.147369,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,15,30,535,51,Stable
+2026-11-15 22:55:37.164465,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,104,21,14,543,25,Stable
+2026-11-15 22:55:37.164481,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,115,24,27,436,87,Warning
+2026-11-15 22:55:37.164488,ICU Bed 3,Critical ARDS,ARDS,83,146,40,28,421,97,Critical
+2026-11-15 22:55:37.164494,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,22,597,100,Stable
+2026-11-15 22:55:38.185853,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,26,576,33,Stable
+2026-11-15 22:55:38.185881,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,115,24,19,471,100,Warning
+2026-11-15 22:55:38.185895,ICU Bed 3,Critical ARDS,ARDS,84,150,40,19,591,38,Critical
+2026-11-15 22:55:38.185908,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,17,24,553,23,Stable
+2026-11-15 22:55:39.212261,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,20,576,40,Stable
+2026-11-15 22:55:39.212288,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,115,24,21,425,99,Warning
+2026-11-15 22:55:39.212304,ICU Bed 3,Critical ARDS,ARDS,85,150,40,12,421,89,Critical
+2026-11-15 22:55:39.212321,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,18,27,610,52,Stable
+2026-11-15 22:55:40.236009,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,14,616,54,Stable
+2026-11-15 22:55:40.236025,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,116,23,28,552,43,Warning
+2026-11-15 22:55:40.236034,ICU Bed 3,Critical ARDS,ARDS,86,147,40,22,423,55,Critical
+2026-11-15 22:55:40.236042,ICU Bed 4,Sepsis Recovery,Sepsis,98,99,18,27,521,64,Stable
+2026-11-15 22:55:41.255594,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,19,22,437,30,Stable
+2026-11-15 22:55:41.255619,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,114,26,19,506,80,Warning
+2026-11-15 22:55:41.255637,ICU Bed 3,Critical ARDS,ARDS,85,145,40,23,496,43,Critical
+2026-11-15 22:55:41.255651,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,18,14,572,33,Stable
+2026-11-15 22:55:42.277102,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,19,24,634,30,Stable
+2026-11-15 22:55:42.277126,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,117,27,25,532,67,Warning
+2026-11-15 22:55:42.277139,ICU Bed 3,Critical ARDS,ARDS,84,145,39,30,410,44,Critical
+2026-11-15 22:55:42.277150,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,19,18,521,49,Stable
+2026-11-15 22:55:43.295364,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,98,18,27,428,70,Stable
+2026-11-15 22:55:43.295403,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,119,26,11,644,52,Warning
+2026-11-15 22:55:43.295431,ICU Bed 3,Critical ARDS,ARDS,81,147,40,14,565,70,Critical
+2026-11-15 22:55:43.295456,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,16,408,64,Stable
+2026-11-15 22:55:44.316176,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,97,18,22,400,32,Stable
+2026-11-15 22:55:44.316204,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,117,28,12,430,68,Warning
+2026-11-15 22:55:44.316220,ICU Bed 3,Critical ARDS,ARDS,80,144,40,13,645,67,Critical
+2026-11-15 22:55:44.316234,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,10,466,97,Stable
+2026-11-15 22:55:45.339030,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,99,18,10,523,68,Stable
+2026-11-15 22:55:45.339056,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,118,26,11,476,26,Warning
+2026-11-15 22:55:45.339071,ICU Bed 3,Critical ARDS,ARDS,80,141,40,27,560,46,Critical
+2026-11-15 22:55:45.339084,ICU Bed 4,Sepsis Recovery,Sepsis,98,99,20,21,454,52,Stable
+2026-11-15 22:55:46.360891,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,99,19,26,567,37,Stable
+2026-11-15 22:55:46.360918,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,29,540,34,Warning
+2026-11-15 22:55:46.360933,ICU Bed 3,Critical ARDS,ARDS,80,135,40,16,474,88,Critical
+2026-11-15 22:55:46.360946,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,28,471,47,Stable
+2026-11-15 22:55:47.382685,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,97,19,16,625,37,Stable
+2026-11-15 22:55:47.382725,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,119,28,16,422,74,Warning
+2026-11-15 22:55:47.382743,ICU Bed 3,Critical ARDS,ARDS,80,132,37,13,555,44,Critical
+2026-11-15 22:55:47.382755,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,19,25,539,88,Stable
+2026-11-15 22:55:48.395803,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,98,19,30,530,97,Stable
+2026-11-15 22:55:48.395827,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,117,27,27,423,45,Warning
+2026-11-15 22:55:48.395839,ICU Bed 3,Critical ARDS,ARDS,82,127,39,23,517,89,Critical
+2026-11-15 22:55:48.395850,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,19,13,627,98,Stable
+2026-11-15 22:55:49.417914,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,100,18,16,619,92,Stable
+2026-11-15 22:55:49.417926,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,114,28,30,413,21,Warning
+2026-11-15 22:55:49.417931,ICU Bed 3,Critical ARDS,ARDS,82,126,37,17,600,90,Critical
+2026-11-15 22:55:49.417936,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,26,583,22,Stable
+2026-11-15 22:55:50.436699,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,17,13,469,55,Stable
+2026-11-15 22:55:50.436733,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,115,28,12,400,80,Warning
+2026-11-15 22:55:50.436757,ICU Bed 3,Critical ARDS,ARDS,80,127,36,27,615,48,Critical
+2026-11-15 22:55:50.436777,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,19,483,29,Stable
+2026-11-15 22:55:51.456477,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,100,16,26,619,26,Stable
+2026-11-15 22:55:51.456502,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,113,27,14,501,39,Warning
+2026-11-15 22:55:51.456516,ICU Bed 3,Critical ARDS,ARDS,80,128,38,25,610,73,Critical
+2026-11-15 22:55:51.456528,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,15,474,78,Stable
+2026-11-15 22:55:52.477953,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,100,16,19,479,33,Stable
+2026-11-15 22:55:52.477964,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,116,28,15,573,68,Warning
+2026-11-15 22:55:52.477968,ICU Bed 3,Critical ARDS,ARDS,82,123,36,11,449,99,Critical
+2026-11-15 22:55:52.477972,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,19,26,613,81,Stable
+2026-11-15 22:55:53.498306,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,15,22,565,31,Stable
+2026-11-15 22:55:53.498339,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,116,27,14,516,51,Warning
+2026-11-15 22:55:53.498362,ICU Bed 3,Critical ARDS,ARDS,80,121,40,17,620,39,Critical
+2026-11-15 22:55:53.498384,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,27,516,83,Stable
+2026-11-15 22:55:54.521930,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,98,16,23,448,61,Stable
+2026-11-15 22:55:54.521957,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,113,26,14,463,65,Warning
+2026-11-15 22:55:54.521975,ICU Bed 3,Critical ARDS,ARDS,80,121,40,15,431,21,Critical
+2026-11-15 22:55:54.521988,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,18,25,578,34,Stable
+2026-11-15 22:55:55.540244,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,17,25,596,58,Stable
+2026-11-15 22:55:55.540269,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,114,28,21,445,32,Critical
+2026-11-15 22:55:55.540280,ICU Bed 3,Critical ARDS,ARDS,82,121,40,24,505,40,Critical
+2026-11-15 22:55:55.540290,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,22,528,60,Stable
+2026-11-15 22:55:56.560450,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,17,25,430,76,Stable
+2026-11-15 22:55:56.560492,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,29,15,646,46,Critical
+2026-11-15 22:55:56.560520,ICU Bed 3,Critical ARDS,ARDS,82,121,40,27,543,53,Critical
+2026-11-15 22:55:56.560545,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,20,598,65,Stable
+2026-11-15 22:55:57.584340,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,99,16,16,620,31,Stable
+2026-11-15 22:55:57.584387,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,30,19,578,44,Critical
+2026-11-15 22:55:57.584412,ICU Bed 3,Critical ARDS,ARDS,80,121,40,29,534,62,Critical
+2026-11-15 22:55:57.584433,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,27,620,95,Stable
+2026-11-15 22:55:58.599677,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,99,17,25,458,26,Stable
+2026-11-15 22:55:58.599698,ICU Bed 2,Pneumonia Monitoring,Pneumonia,88,121,29,19,454,73,Critical
+2026-11-15 22:55:58.599708,ICU Bed 3,Critical ARDS,ARDS,82,125,40,28,617,89,Critical
+2026-11-15 22:55:58.599717,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,25,516,53,Stable
+2026-11-15 22:55:59.613232,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,16,30,405,58,Stable
+2026-11-15 22:55:59.613250,ICU Bed 2,Pneumonia Monitoring,Pneumonia,88,121,31,21,505,44,Critical
+2026-11-15 22:55:59.613262,ICU Bed 3,Critical ARDS,ARDS,85,121,40,23,616,37,Critical
+2026-11-15 22:55:59.613270,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,16,604,54,Stable
+2026-11-15 22:56:00.630034,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,15,29,514,51,Stable
+2026-11-15 22:56:00.630046,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,121,32,10,596,53,Critical
+2026-11-15 22:56:00.630052,ICU Bed 3,Critical ARDS,ARDS,87,121,40,28,420,32,Critical
+2026-11-15 22:56:00.630057,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,18,432,84,Stable
+2026-11-15 22:56:01.642203,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,99,14,29,621,32,Stable
+2026-11-15 22:56:01.642213,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,123,30,24,513,38,Critical
+2026-11-15 22:56:01.642220,ICU Bed 3,Critical ARDS,ARDS,87,127,40,13,645,56,Critical
+2026-11-15 22:56:01.642224,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,12,471,43,Stable
+2026-11-15 22:56:02.649224,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,15,21,514,45,Stable
+2026-11-15 22:56:02.649240,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,126,29,20,450,66,Critical
+2026-11-15 22:56:02.649249,ICU Bed 3,Critical ARDS,ARDS,84,123,38,15,580,53,Critical
+2026-11-15 22:56:02.649256,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,15,537,43,Stable
+2026-11-15 22:56:03.659241,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,98,15,30,479,70,Stable
+2026-11-15 22:56:03.659255,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,126,29,24,614,66,Critical
+2026-11-15 22:56:03.659261,ICU Bed 3,Critical ARDS,ARDS,86,129,40,18,481,21,Critical
+2026-11-15 22:56:03.659267,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,11,448,38,Stable
+2026-11-15 22:56:04.667450,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,96,16,20,478,69,Stable
+2026-11-15 22:56:04.667461,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,123,29,24,525,72,Critical
+2026-11-15 22:56:04.667466,ICU Bed 3,Critical ARDS,ARDS,86,135,40,10,508,72,Critical
+2026-11-15 22:56:04.667470,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,15,489,97,Stable
+2026-11-15 22:56:05.676261,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,95,15,10,624,49,Stable
+2026-11-15 22:56:05.676272,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,127,29,21,643,27,Critical
+2026-11-15 22:56:05.676277,ICU Bed 3,Critical ARDS,ARDS,83,135,40,27,605,28,Critical
+2026-11-15 22:56:05.676282,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,12,616,81,Stable
+2026-11-15 22:56:06.684600,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,100,94,15,17,640,37,Stable
+2026-11-15 22:56:06.684618,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,126,29,13,475,29,Critical
+2026-11-15 22:56:06.684628,ICU Bed 3,Critical ARDS,ARDS,84,132,40,11,612,71,Critical
+2026-11-15 22:56:06.684636,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,19,24,492,25,Stable
+2026-11-15 22:56:07.695218,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,92,15,10,585,68,Stable
+2026-11-15 22:56:07.695230,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,127,29,20,471,24,Critical
+2026-11-15 22:56:07.695236,ICU Bed 3,Critical ARDS,ARDS,82,133,40,26,465,29,Critical
+2026-11-15 22:56:07.695240,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,18,18,491,97,Stable
+2026-11-15 22:56:08.703335,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,90,16,29,477,80,Stable
+2026-11-15 22:56:08.703377,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,127,29,14,615,53,Critical
+2026-11-15 22:56:08.703399,ICU Bed 3,Critical ARDS,ARDS,80,135,40,22,406,88,Critical
+2026-11-15 22:56:08.703412,ICU Bed 4,Sepsis Recovery,Sepsis,100,98,19,22,531,71,Stable
+2026-11-15 22:56:09.712533,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,92,17,27,624,90,Stable
+2026-11-15 22:56:09.712551,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,127,31,29,564,26,Critical
+2026-11-15 22:56:09.712561,ICU Bed 3,Critical ARDS,ARDS,80,134,40,30,559,33,Critical
+2026-11-15 22:56:09.712570,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,20,24,448,24,Stable
+2026-11-15 22:56:10.722398,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,92,17,25,428,85,Stable
+2026-11-15 22:56:10.722411,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,130,31,22,404,61,Critical
+2026-11-15 22:56:10.722416,ICU Bed 3,Critical ARDS,ARDS,82,138,40,13,459,71,Critical
+2026-11-15 22:56:10.722421,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,20,29,514,54,Stable
+2026-11-15 22:56:11.731321,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,94,18,28,598,52,Stable
+2026-11-15 22:56:11.731338,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,132,31,16,627,35,Critical
+2026-11-15 22:56:11.731348,ICU Bed 3,Critical ARDS,ARDS,83,141,40,24,429,34,Critical
+2026-11-15 22:56:11.731357,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,10,489,39,Stable
+2026-11-15 22:56:12.742647,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,96,18,10,626,76,Stable
+2026-11-15 22:56:12.742675,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,132,29,23,534,66,Critical
+2026-11-15 22:56:12.742680,ICU Bed 3,Critical ARDS,ARDS,84,139,39,18,422,25,Critical
+2026-11-15 22:56:12.742685,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,19,15,605,82,Stable
+2026-11-15 22:56:13.750857,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,95,19,23,575,59,Stable
+2026-11-15 22:56:13.750874,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,128,29,24,415,30,Critical
+2026-11-15 22:56:13.750883,ICU Bed 3,Critical ARDS,ARDS,84,139,39,10,492,100,Critical
+2026-11-15 22:56:13.750890,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,19,18,469,81,Stable
+2026-11-15 22:56:14.764983,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,94,19,15,570,32,Stable
+2026-11-15 22:56:14.764998,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,126,29,15,475,36,Critical
+2026-11-15 22:56:14.765004,ICU Bed 3,Critical ARDS,ARDS,81,136,39,26,448,45,Critical
+2026-11-15 22:56:14.765009,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,18,23,424,44,Stable
+2026-11-15 22:56:15.773602,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,93,20,21,428,76,Stable
+2026-11-15 22:56:15.773636,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,127,31,11,467,45,Critical
+2026-11-15 22:56:15.773654,ICU Bed 3,Critical ARDS,ARDS,80,139,38,14,410,76,Critical
+2026-11-15 22:56:15.773671,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,18,25,459,88,Stable
+2026-11-15 22:56:16.786202,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,92,20,27,571,79,Stable
+2026-11-15 22:56:16.786229,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,127,32,15,409,47,Critical
+2026-11-15 22:56:16.786244,ICU Bed 3,Critical ARDS,ARDS,80,144,40,23,519,79,Critical
+2026-11-15 22:56:16.786258,ICU Bed 4,Sepsis Recovery,Sepsis,99,99,17,27,588,83,Stable
+2026-11-15 22:56:17.801428,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,92,20,29,540,51,Stable
+2026-11-15 22:56:17.801455,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,124,34,25,631,80,Warning
+2026-11-15 22:56:17.801471,ICU Bed 3,Critical ARDS,ARDS,82,144,40,27,411,31,Critical
+2026-11-15 22:56:17.801485,ICU Bed 4,Sepsis Recovery,Sepsis,100,97,16,16,612,46,Stable
+2026-11-15 22:56:18.811430,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,20,22,523,56,Stable
+2026-11-15 22:56:18.811456,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,11,533,59,Warning
+2026-11-15 22:56:18.811472,ICU Bed 3,Critical ARDS,ARDS,85,145,37,23,501,42,Critical
+2026-11-15 22:56:18.811484,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,17,18,511,82,Stable
+2026-11-15 22:56:19.824517,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,20,26,420,69,Stable
+2026-11-15 22:56:19.824557,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,117,28,25,406,88,Warning
+2026-11-15 22:56:19.824581,ICU Bed 3,Critical ARDS,ARDS,85,147,39,11,635,76,Critical
+2026-11-15 22:56:19.824601,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,16,11,449,32,Stable
+2026-11-15 22:56:20.837281,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,92,19,13,550,75,Stable
+2026-11-15 22:56:20.837294,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,119,28,12,560,87,Warning
+2026-11-15 22:56:20.837300,ICU Bed 3,Critical ARDS,ARDS,87,144,40,20,614,81,Critical
+2026-11-15 22:56:20.837305,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,27,631,39,Stable
+2026-11-15 22:56:21.850957,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,93,19,20,421,94,Stable
+2026-11-15 22:56:21.850973,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,27,11,513,47,Warning
+2026-11-15 22:56:21.850981,ICU Bed 3,Critical ARDS,ARDS,86,141,38,14,491,81,Critical
+2026-11-15 22:56:21.850987,ICU Bed 4,Sepsis Recovery,Sepsis,99,98,15,24,645,30,Stable
+2026-11-15 22:56:22.859467,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,91,20,19,464,54,Stable
+2026-11-15 22:56:22.859490,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,21,438,22,Warning
+2026-11-15 22:56:22.859504,ICU Bed 3,Critical ARDS,ARDS,87,142,40,26,566,33,Critical
+2026-11-15 22:56:22.859515,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,13,558,38,Stable
+2026-11-15 22:56:23.870681,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,91,20,19,434,56,Stable
+2026-11-15 22:56:23.870694,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,14,535,36,Critical
+2026-11-15 22:56:23.870700,ICU Bed 3,Critical ARDS,ARDS,89,144,38,17,401,80,Critical
+2026-11-15 22:56:23.870705,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,17,15,446,78,Stable
+2026-11-15 22:56:24.879035,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,90,20,22,466,46,Stable
+2026-11-15 22:56:24.879065,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,30,10,650,46,Critical
+2026-11-15 22:56:24.879080,ICU Bed 3,Critical ARDS,ARDS,86,145,40,26,577,88,Critical
+2026-11-15 22:56:24.879094,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,18,22,620,99,Stable
+2026-11-15 22:56:25.893407,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,91,20,22,574,37,Stable
+2026-11-15 22:56:25.893444,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,124,29,14,422,40,Critical
+2026-11-15 22:56:25.893467,ICU Bed 3,Critical ARDS,ARDS,82,142,40,14,537,89,Critical
+2026-11-15 22:56:25.893487,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,17,401,64,Stable
+2026-11-15 22:56:26.911767,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,90,20,12,572,79,Stable
+2026-11-15 22:56:26.911805,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,31,10,570,85,Critical
+2026-11-15 22:56:26.911830,ICU Bed 3,Critical ARDS,ARDS,80,136,38,26,595,42,Critical
+2026-11-15 22:56:26.911851,ICU Bed 4,Sepsis Recovery,Sepsis,97,99,20,30,584,35,Stable
+2026-11-15 22:56:27.935555,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,91,19,14,507,39,Stable
+2026-11-15 22:56:27.935581,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,30,11,430,61,Critical
+2026-11-15 22:56:27.935596,ICU Bed 3,Critical ARDS,ARDS,80,141,40,17,593,70,Critical
+2026-11-15 22:56:27.935608,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,17,451,28,Stable
+2026-11-15 22:56:28.955318,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,93,18,28,616,71,Stable
+2026-11-15 22:56:28.955344,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,122,29,29,405,63,Critical
+2026-11-15 22:56:28.955358,ICU Bed 3,Critical ARDS,ARDS,80,142,40,23,418,22,Critical
+2026-11-15 22:56:28.955372,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,24,608,61,Stable
+2026-11-15 22:56:29.972282,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,95,17,14,540,76,Stable
+2026-11-15 22:56:29.972293,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,124,29,20,597,63,Critical
+2026-11-15 22:56:29.972297,ICU Bed 3,Critical ARDS,ARDS,80,142,40,19,545,70,Critical
+2026-11-15 22:56:29.972302,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,18,504,37,Warning
+2026-11-15 22:56:30.986596,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,96,17,26,614,60,Stable
+2026-11-15 22:56:30.986614,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,122,32,25,581,40,Critical
+2026-11-15 22:56:30.986623,ICU Bed 3,Critical ARDS,ARDS,81,136,40,18,521,59,Critical
+2026-11-15 22:56:30.986631,ICU Bed 4,Sepsis Recovery,Sepsis,94,103,21,27,554,71,Warning
+2026-11-15 22:56:32.003881,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,95,18,30,481,47,Stable
+2026-11-15 22:56:32.003894,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,121,34,17,603,37,Critical
+2026-11-15 22:56:32.003899,ICU Bed 3,Critical ARDS,ARDS,82,140,40,17,569,51,Critical
+2026-11-15 22:56:32.003904,ICU Bed 4,Sepsis Recovery,Sepsis,94,106,22,24,646,73,Warning
+2026-11-15 22:56:33.021807,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,94,19,19,603,52,Stable
+2026-11-15 22:56:33.021833,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,121,34,24,501,79,Critical
+2026-11-15 22:56:33.021850,ICU Bed 3,Critical ARDS,ARDS,81,144,40,18,557,58,Critical
+2026-11-15 22:56:33.021863,ICU Bed 4,Sepsis Recovery,Sepsis,94,111,23,20,455,40,Warning
+2026-11-15 22:56:34.044545,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,92,19,18,567,32,Stable
+2026-11-15 22:56:34.044585,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,121,33,10,507,56,Critical
+2026-11-15 22:56:34.044610,ICU Bed 3,Critical ARDS,ARDS,80,149,39,24,463,29,Critical
+2026-11-15 22:56:34.044629,ICU Bed 4,Sepsis Recovery,Sepsis,93,112,22,30,462,84,Critical
+2026-11-15 22:56:35.063180,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,92,19,26,455,63,Stable
+2026-11-15 22:56:35.063204,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,123,32,26,467,91,Critical
+2026-11-15 22:56:35.063218,ICU Bed 3,Critical ARDS,ARDS,80,150,40,28,592,37,Critical
+2026-11-15 22:56:35.063231,ICU Bed 4,Sepsis Recovery,Sepsis,89,121,29,11,547,44,Critical
+2026-11-15 22:56:36.076794,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,91,18,28,560,50,Stable
+2026-11-15 22:56:36.076808,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,121,32,17,541,83,Critical
+2026-11-15 22:56:36.076815,ICU Bed 3,Critical ARDS,ARDS,80,147,40,27,631,87,Critical
+2026-11-15 22:56:36.076821,ICU Bed 4,Sepsis Recovery,Sepsis,89,124,30,27,641,37,Critical
+2026-11-15 22:56:37.089310,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,89,18,22,438,42,Stable
+2026-11-15 22:56:37.089328,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,122,31,28,462,40,Critical
+2026-11-15 22:56:37.089338,ICU Bed 3,Critical ARDS,ARDS,82,146,40,29,646,89,Critical
+2026-11-15 22:56:37.089346,ICU Bed 4,Sepsis Recovery,Sepsis,88,126,30,21,468,74,Critical
+2026-11-15 22:56:38.109358,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,87,17,16,467,68,Stable
+2026-11-15 22:56:38.109374,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,122,31,14,464,26,Critical
+2026-11-15 22:56:38.109383,ICU Bed 3,Critical ARDS,ARDS,80,150,40,13,603,77,Critical
+2026-11-15 22:56:38.109389,ICU Bed 4,Sepsis Recovery,Sepsis,89,128,31,19,530,49,Critical
+2026-11-15 22:56:39.130262,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,88,16,30,572,22,Stable
+2026-11-15 22:56:39.130282,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,121,33,25,425,80,Critical
+2026-11-15 22:56:39.130293,ICU Bed 3,Critical ARDS,ARDS,80,150,40,15,587,97,Critical
+2026-11-15 22:56:39.130301,ICU Bed 4,Sepsis Recovery,Sepsis,89,130,30,10,474,22,Critical
+2026-11-15 22:56:40.150285,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,89,17,18,466,73,Stable
+2026-11-15 22:56:40.150368,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,124,34,16,506,38,Critical
+2026-11-15 22:56:40.150384,ICU Bed 3,Critical ARDS,ARDS,80,150,40,23,507,92,Critical
+2026-11-15 22:56:40.150399,ICU Bed 4,Sepsis Recovery,Sepsis,88,132,29,23,568,27,Critical
+2026-11-15 22:56:41.168420,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,90,17,24,564,29,Stable
+2026-11-15 22:56:41.168448,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,127,36,27,582,36,Critical
+2026-11-15 22:56:41.168465,ICU Bed 3,Critical ARDS,ARDS,80,150,39,23,448,46,Critical
+2026-11-15 22:56:41.168476,ICU Bed 4,Sepsis Recovery,Sepsis,88,134,30,29,456,83,Critical
+2026-11-15 22:56:42.187340,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,89,18,17,622,70,Stable
+2026-11-15 22:56:42.187356,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,123,38,24,501,61,Critical
+2026-11-15 22:56:42.187364,ICU Bed 3,Critical ARDS,ARDS,80,150,40,28,523,66,Critical
+2026-11-15 22:56:42.187371,ICU Bed 4,Sepsis Recovery,Sepsis,87,135,31,15,613,41,Critical
+2026-11-15 22:56:43.198724,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,91,17,16,555,60,Stable
+2026-11-15 22:56:43.198750,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,126,40,20,480,75,Critical
+2026-11-15 22:56:43.198765,ICU Bed 3,Critical ARDS,ARDS,80,145,40,26,621,95,Critical
+2026-11-15 22:56:43.198780,ICU Bed 4,Sepsis Recovery,Sepsis,86,137,30,15,493,35,Critical
+2026-11-15 22:56:44.216119,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,91,18,27,447,46,Stable
+2026-11-15 22:56:44.216140,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,122,40,24,411,27,Critical
+2026-11-15 22:56:44.216150,ICU Bed 3,Critical ARDS,ARDS,82,148,40,25,477,35,Critical
+2026-11-15 22:56:44.216159,ICU Bed 4,Sepsis Recovery,Sepsis,87,141,29,18,534,78,Critical
+2026-11-15 22:56:45.234647,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,90,18,11,601,90,Stable
+2026-11-15 22:56:45.234672,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,121,39,29,554,97,Critical
+2026-11-15 22:56:45.234687,ICU Bed 3,Critical ARDS,ARDS,80,148,40,10,641,82,Critical
+2026-11-15 22:56:45.234703,ICU Bed 4,Sepsis Recovery,Sepsis,86,147,30,13,447,75,Critical
+2026-11-15 22:56:46.257059,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,88,18,21,497,91,Stable
+2026-11-15 22:56:46.257087,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,123,39,20,549,58,Critical
+2026-11-15 22:56:46.257101,ICU Bed 3,Critical ARDS,ARDS,80,150,40,22,641,50,Critical
+2026-11-15 22:56:46.257115,ICU Bed 4,Sepsis Recovery,Sepsis,86,150,31,17,611,45,Critical
+2026-11-15 22:56:47.278486,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,89,19,10,455,47,Stable
+2026-11-15 22:56:47.278503,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,121,40,24,615,36,Critical
+2026-11-15 22:56:47.278511,ICU Bed 3,Critical ARDS,ARDS,81,150,40,11,618,40,Critical
+2026-11-15 22:56:47.278518,ICU Bed 4,Sepsis Recovery,Sepsis,85,150,30,17,615,72,Critical
+2026-11-15 22:56:48.294284,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,87,18,29,491,41,Stable
+2026-11-15 22:56:48.294296,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,125,39,30,518,41,Critical
+2026-11-15 22:56:48.294300,ICU Bed 3,Critical ARDS,ARDS,80,150,40,18,410,60,Critical
+2026-11-15 22:56:48.294304,ICU Bed 4,Sepsis Recovery,Sepsis,84,150,31,17,431,94,Critical
+2026-11-15 22:56:49.309997,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,88,18,21,593,56,Stable
+2026-11-15 22:56:49.310032,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,125,38,30,613,33,Critical
+2026-11-15 22:56:49.310041,ICU Bed 3,Critical ARDS,ARDS,81,147,40,14,409,62,Critical
+2026-11-15 22:56:49.310051,ICU Bed 4,Sepsis Recovery,Sepsis,85,150,31,15,546,41,Critical
+2026-11-15 22:56:50.326803,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,89,19,11,603,95,Stable
+2026-11-15 22:56:50.326828,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,121,39,14,488,50,Critical
+2026-11-15 22:56:50.326842,ICU Bed 3,Critical ARDS,ARDS,81,150,40,21,496,28,Critical
+2026-11-15 22:56:50.326855,ICU Bed 4,Sepsis Recovery,Sepsis,86,149,30,26,617,60,Critical
+2026-11-15 22:56:51.345431,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,90,18,14,527,74,Stable
+2026-11-15 22:56:51.345453,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,121,40,22,590,98,Critical
+2026-11-15 22:56:51.345465,ICU Bed 3,Critical ARDS,ARDS,83,144,40,22,570,50,Critical
+2026-11-15 22:56:51.345475,ICU Bed 4,Sepsis Recovery,Sepsis,85,150,29,17,550,92,Critical
+2026-11-15 22:56:52.357609,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,91,19,26,568,72,Stable
+2026-11-15 22:56:52.357660,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,122,40,15,506,51,Critical
+2026-11-15 22:56:52.357672,ICU Bed 3,Critical ARDS,ARDS,86,138,40,13,425,72,Critical
+2026-11-15 22:56:52.357682,ICU Bed 4,Sepsis Recovery,Sepsis,86,150,29,17,533,68,Critical
+2026-11-15 22:56:53.385438,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,92,19,21,479,92,Stable
+2026-11-15 22:56:53.385464,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,122,39,13,630,100,Critical
+2026-11-15 22:56:53.385479,ICU Bed 3,Critical ARDS,ARDS,84,132,40,23,566,54,Critical
+2026-11-15 22:56:53.385492,ICU Bed 4,Sepsis Recovery,Sepsis,87,148,29,25,451,95,Critical
+2026-11-15 22:56:54.407552,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,92,18,15,576,51,Stable
+2026-11-15 22:56:54.407566,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,124,40,15,427,94,Critical
+2026-11-15 22:56:54.407571,ICU Bed 3,Critical ARDS,ARDS,86,127,40,28,413,24,Critical
+2026-11-15 22:56:54.407577,ICU Bed 4,Sepsis Recovery,Sepsis,88,150,29,14,617,31,Critical
+2026-11-15 22:56:55.422802,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,19,22,645,95,Stable
+2026-11-15 22:56:55.422826,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,121,40,13,461,75,Critical
+2026-11-15 22:56:55.422836,ICU Bed 3,Critical ARDS,ARDS,82,131,40,22,541,79,Critical
+2026-11-15 22:56:55.422845,ICU Bed 4,Sepsis Recovery,Sepsis,88,150,29,26,549,37,Critical
+2026-11-15 22:56:56.434147,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,96,20,13,616,49,Stable
+2026-11-15 22:56:56.434174,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,121,40,24,411,74,Critical
+2026-11-15 22:56:56.434189,ICU Bed 3,Critical ARDS,ARDS,81,125,39,14,450,26,Critical
+2026-11-15 22:56:56.434202,ICU Bed 4,Sepsis Recovery,Sepsis,89,150,29,25,434,88,Warning
+2026-11-15 22:56:57.454171,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,95,20,22,511,23,Stable
+2026-11-15 22:56:57.454198,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,121,40,17,609,53,Critical
+2026-11-15 22:56:57.454212,ICU Bed 3,Critical ARDS,ARDS,80,131,40,11,587,84,Critical
+2026-11-15 22:56:57.454226,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,28,16,644,83,Warning
+2026-11-15 22:56:58.472643,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,97,20,26,519,27,Stable
+2026-11-15 22:56:58.472669,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,122,38,13,630,32,Critical
+2026-11-15 22:56:58.472684,ICU Bed 3,Critical ARDS,ARDS,80,134,40,29,488,69,Critical
+2026-11-15 22:56:58.472697,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,28,29,490,60,Warning
+2026-11-15 22:56:59.493999,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,99,19,28,594,42,Stable
+2026-11-15 22:56:59.494025,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,123,40,11,642,58,Critical
+2026-11-15 22:56:59.494040,ICU Bed 3,Critical ARDS,ARDS,80,131,40,27,461,51,Critical
+2026-11-15 22:56:59.494054,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,27,15,615,90,Warning
+2026-11-15 22:57:00.512641,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,97,20,15,520,71,Stable
+2026-11-15 22:57:00.512655,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,126,40,25,509,37,Critical
+2026-11-15 22:57:00.512662,ICU Bed 3,Critical ARDS,ARDS,83,132,40,30,401,41,Critical
+2026-11-15 22:57:00.512668,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,27,21,535,68,Warning
+2026-11-15 22:57:01.531287,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,96,20,15,479,72,Stable
+2026-11-15 22:57:01.531307,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,123,38,15,581,81,Critical
+2026-11-15 22:57:01.531318,ICU Bed 3,Critical ARDS,ARDS,83,130,40,15,455,62,Critical
+2026-11-15 22:57:01.531327,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,27,15,430,30,Warning
+2026-11-15 22:57:02.553459,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,20,24,559,25,Stable
+2026-11-15 22:57:02.553485,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,122,40,30,567,65,Critical
+2026-11-15 22:57:02.553499,ICU Bed 3,Critical ARDS,ARDS,85,131,40,28,429,85,Critical
+2026-11-15 22:57:02.553512,ICU Bed 4,Sepsis Recovery,Sepsis,93,120,26,14,604,97,Warning
+2026-11-15 22:57:03.574208,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,19,17,486,34,Stable
+2026-11-15 22:57:03.574220,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,126,39,30,420,34,Critical
+2026-11-15 22:57:03.574226,ICU Bed 3,Critical ARDS,ARDS,86,125,38,24,466,24,Critical
+2026-11-15 22:57:03.574230,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,25,17,522,88,Warning
+2026-11-15 22:57:04.592924,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,19,15,566,25,Stable
+2026-11-15 22:57:04.592937,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,125,40,26,551,91,Critical
+2026-11-15 22:57:04.592942,ICU Bed 3,Critical ARDS,ARDS,83,125,38,19,483,42,Critical
+2026-11-15 22:57:04.592947,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,25,10,442,95,Warning
+2026-11-15 22:57:05.615083,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,20,28,532,100,Stable
+2026-11-15 22:57:05.615121,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,127,40,11,456,65,Critical
+2026-11-15 22:57:05.615139,ICU Bed 3,Critical ARDS,ARDS,83,124,39,25,485,23,Critical
+2026-11-15 22:57:05.615154,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,24,21,413,73,Warning
+2026-11-15 22:57:06.636233,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,19,29,433,48,Stable
+2026-11-15 22:57:06.636261,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,129,40,28,646,39,Critical
+2026-11-15 22:57:06.636282,ICU Bed 3,Critical ARDS,ARDS,81,121,40,11,490,35,Critical
+2026-11-15 22:57:06.636301,ICU Bed 4,Sepsis Recovery,Sepsis,93,120,25,24,414,56,Warning
+2026-11-15 22:57:07.656036,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,95,18,16,645,68,Stable
+2026-11-15 22:57:07.656054,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,130,38,16,476,71,Critical
+2026-11-15 22:57:07.656065,ICU Bed 3,Critical ARDS,ARDS,80,123,40,22,419,75,Critical
+2026-11-15 22:57:07.656073,ICU Bed 4,Sepsis Recovery,Sepsis,94,120,26,18,648,81,Warning
+2026-11-15 22:57:08.676502,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,97,18,29,536,56,Stable
+2026-11-15 22:57:08.676516,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,133,40,22,612,61,Critical
+2026-11-15 22:57:08.676524,ICU Bed 3,Critical ARDS,ARDS,81,127,38,23,418,63,Critical
+2026-11-15 22:57:08.676530,ICU Bed 4,Sepsis Recovery,Sepsis,93,120,27,13,498,93,Warning
+2026-11-15 22:57:09.696862,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,19,20,632,38,Stable
+2026-11-15 22:57:09.696880,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,130,40,19,419,64,Critical
+2026-11-15 22:57:09.696888,ICU Bed 3,Critical ARDS,ARDS,80,133,36,11,523,100,Critical
+2026-11-15 22:57:09.696895,ICU Bed 4,Sepsis Recovery,Sepsis,92,120,28,29,602,51,Warning
+2026-11-15 22:57:10.713148,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,18,29,608,25,Stable
+2026-11-15 22:57:10.713168,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,127,40,26,414,41,Critical
+2026-11-15 22:57:10.713180,ICU Bed 3,Critical ARDS,ARDS,80,139,39,16,645,84,Critical
+2026-11-15 22:57:10.713190,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,28,11,530,55,Warning
+2026-11-15 22:57:11.731029,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,17,12,636,31,Stable
+2026-11-15 22:57:11.731044,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,130,40,23,504,61,Critical
+2026-11-15 22:57:11.731051,ICU Bed 3,Critical ARDS,ARDS,80,136,40,26,618,63,Critical
+2026-11-15 22:57:11.731056,ICU Bed 4,Sepsis Recovery,Sepsis,90,120,27,20,638,51,Warning
+2026-11-15 22:57:12.751547,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,95,17,20,590,87,Stable
+2026-11-15 22:57:12.751559,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,130,40,10,412,38,Critical
+2026-11-15 22:57:12.751564,ICU Bed 3,Critical ARDS,ARDS,80,135,40,10,540,31,Critical
+2026-11-15 22:57:12.751569,ICU Bed 4,Sepsis Recovery,Sepsis,91,120,27,29,551,84,Warning
+2026-11-15 22:57:13.766425,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,17,21,638,85,Stable
+2026-11-15 22:57:13.766439,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,133,39,22,459,88,Critical
+2026-11-15 22:57:13.766447,ICU Bed 3,Critical ARDS,ARDS,80,132,40,21,646,70,Critical
+2026-11-15 22:57:13.766454,ICU Bed 4,Sepsis Recovery,Sepsis,90,119,27,16,519,29,Stable
+2026-11-15 22:57:14.786753,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,17,27,453,47,Stable
+2026-11-15 22:57:14.786780,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,136,40,15,557,70,Critical
+2026-11-15 22:57:14.786795,ICU Bed 3,Critical ARDS,ARDS,80,129,40,10,524,84,Critical
+2026-11-15 22:57:14.786809,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,17,404,30,Stable
+2026-11-15 22:57:15.809712,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,16,28,633,24,Stable
+2026-11-15 22:57:15.809740,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,132,40,12,643,88,Critical
+2026-11-15 22:57:15.809756,ICU Bed 3,Critical ARDS,ARDS,80,123,40,27,569,89,Critical
+2026-11-15 22:57:15.809768,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,13,512,40,Stable
+2026-11-15 22:57:16.830771,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,17,23,491,30,Stable
+2026-11-15 22:57:16.830801,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,129,39,26,407,52,Critical
+2026-11-15 22:57:16.830817,ICU Bed 3,Critical ARDS,ARDS,83,123,40,26,463,64,Critical
+2026-11-15 22:57:16.830829,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,15,628,97,Stable
+2026-11-15 22:57:17.853910,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,96,18,27,422,73,Stable
+2026-11-15 22:57:17.853938,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,130,38,28,423,45,Critical
+2026-11-15 22:57:17.853954,ICU Bed 3,Critical ARDS,ARDS,82,121,40,30,598,80,Critical
+2026-11-15 22:57:17.853968,ICU Bed 4,Sepsis Recovery,Sepsis,95,99,19,14,532,58,Stable
+2026-11-15 22:57:18.874750,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,19,23,524,48,Stable
+2026-11-15 22:57:18.874777,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,131,39,26,604,44,Critical
+2026-11-15 22:57:18.874793,ICU Bed 3,Critical ARDS,ARDS,80,121,40,26,595,54,Critical
+2026-11-15 22:57:18.874807,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,25,442,35,Stable
+2026-11-15 22:57:19.896602,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,95,19,16,590,74,Stable
+2026-11-15 22:57:19.896641,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,130,40,20,498,47,Critical
+2026-11-15 22:57:19.896666,ICU Bed 3,Critical ARDS,ARDS,80,121,40,16,426,53,Critical
+2026-11-15 22:57:19.896690,ICU Bed 4,Sepsis Recovery,Sepsis,95,98,20,28,591,38,Stable
+2026-11-15 22:57:20.912779,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,20,10,538,27,Stable
+2026-11-15 22:57:20.912791,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,128,39,30,401,30,Critical
+2026-11-15 22:57:20.912796,ICU Bed 3,Critical ARDS,ARDS,81,121,39,14,526,77,Critical
+2026-11-15 22:57:20.912801,ICU Bed 4,Sepsis Recovery,Sepsis,96,97,20,27,620,28,Stable
+2026-11-15 22:57:21.925926,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,20,10,563,21,Stable
+2026-11-15 22:57:21.925953,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,127,40,30,430,49,Critical
+2026-11-15 22:57:21.925968,ICU Bed 3,Critical ARDS,ARDS,80,126,40,15,550,63,Critical
+2026-11-15 22:57:21.925981,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,14,506,29,Stable
+2026-11-15 22:57:22.947019,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,96,20,20,633,40,Stable
+2026-11-15 22:57:22.947050,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,131,39,21,453,80,Critical
+2026-11-15 22:57:22.947068,ICU Bed 3,Critical ARDS,ARDS,80,129,40,30,408,85,Critical
+2026-11-15 22:57:22.947081,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,12,469,44,Stable
+2026-11-15 22:57:23.969550,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,20,19,408,84,Stable
+2026-11-15 22:57:23.969569,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,133,39,27,561,94,Critical
+2026-11-15 22:57:23.969580,ICU Bed 3,Critical ARDS,ARDS,80,135,38,19,650,96,Critical
+2026-11-15 22:57:23.969590,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,12,635,86,Stable
+2026-11-15 22:57:24.983399,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,20,16,546,56,Stable
+2026-11-15 22:57:24.983425,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,137,38,17,519,62,Critical
+2026-11-15 22:57:24.983440,ICU Bed 3,Critical ARDS,ARDS,80,138,40,22,452,55,Critical
+2026-11-15 22:57:24.983453,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,27,517,86,Stable
+2026-11-15 22:57:26.005400,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,15,540,24,Stable
+2026-11-15 22:57:26.005430,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,138,36,15,599,60,Critical
+2026-11-15 22:57:26.005445,ICU Bed 3,Critical ARDS,ARDS,80,134,40,16,451,69,Critical
+2026-11-15 22:57:26.005459,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,22,404,64,Stable
+2026-11-15 22:57:27.026157,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,20,18,500,52,Stable
+2026-11-15 22:57:27.026185,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,138,35,19,558,56,Critical
+2026-11-15 22:57:27.026200,ICU Bed 3,Critical ARDS,ARDS,80,133,40,21,459,26,Critical
+2026-11-15 22:57:27.026214,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,20,21,562,32,Stable
+2026-11-15 22:57:28.041433,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,19,24,535,21,Stable
+2026-11-15 22:57:28.041473,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,136,35,10,569,35,Critical
+2026-11-15 22:57:28.041497,ICU Bed 3,Critical ARDS,ARDS,80,129,40,12,548,83,Critical
+2026-11-15 22:57:28.041516,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,19,516,59,Stable
+2026-11-15 22:57:29.062448,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,98,18,16,646,46,Stable
+2026-11-15 22:57:29.062459,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,138,35,13,637,64,Critical
+2026-11-15 22:57:29.062465,ICU Bed 3,Critical ARDS,ARDS,80,131,40,29,552,83,Critical
+2026-11-15 22:57:29.062470,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,15,490,53,Stable
+2026-11-15 22:57:30.077574,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,96,17,15,616,23,Stable
+2026-11-15 22:57:30.077587,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,135,34,15,599,85,Critical
+2026-11-15 22:57:30.077592,ICU Bed 3,Critical ARDS,ARDS,80,127,38,11,535,87,Critical
+2026-11-15 22:57:30.077596,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,18,18,644,61,Stable
+2026-11-15 22:57:31.096994,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,98,18,30,589,81,Stable
+2026-11-15 22:57:31.097014,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,134,32,26,644,41,Critical
+2026-11-15 22:57:31.097022,ICU Bed 3,Critical ARDS,ARDS,80,130,39,27,444,72,Critical
+2026-11-15 22:57:31.097030,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,17,18,588,88,Stable
+2026-11-15 22:57:32.113187,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,97,18,24,408,25,Stable
+2026-11-15 22:57:32.113231,ICU Bed 2,Pneumonia Monitoring,Pneumonia,82,138,35,22,482,42,Critical
+2026-11-15 22:57:32.113243,ICU Bed 3,Critical ARDS,ARDS,80,129,40,20,452,42,Critical
+2026-11-15 22:57:32.113253,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,16,30,613,32,Stable
+2026-11-15 22:57:33.131719,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,99,19,11,514,82,Stable
+2026-11-15 22:57:33.131737,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,137,37,11,440,55,Critical
+2026-11-15 22:57:33.131745,ICU Bed 3,Critical ARDS,ARDS,80,129,37,21,648,91,Critical
+2026-11-15 22:57:33.131753,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,15,503,61,Stable
+2026-11-15 22:57:34.154704,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,20,30,556,89,Stable
+2026-11-15 22:57:34.154743,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,138,36,12,634,90,Critical
+2026-11-15 22:57:34.154801,ICU Bed 3,Critical ARDS,ARDS,80,129,38,16,572,34,Critical
+2026-11-15 22:57:34.154822,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,16,15,579,71,Stable
+2026-11-15 22:57:35.173363,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,20,25,475,93,Stable
+2026-11-15 22:57:35.173391,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,139,37,20,609,84,Critical
+2026-11-15 22:57:35.173406,ICU Bed 3,Critical ARDS,ARDS,80,134,39,11,644,61,Critical
+2026-11-15 22:57:35.173419,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,16,23,579,42,Stable
+2026-11-15 22:57:36.194685,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,20,28,483,96,Stable
+2026-11-15 22:57:36.194724,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,140,39,24,552,93,Critical
+2026-11-15 22:57:36.194747,ICU Bed 3,Critical ARDS,ARDS,82,129,40,26,641,28,Critical
+2026-11-15 22:57:36.194766,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,16,21,547,49,Stable
+2026-11-15 22:57:37.216168,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,19,10,620,88,Stable
+2026-11-15 22:57:37.216194,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,136,38,10,635,40,Critical
+2026-11-15 22:57:37.216210,ICU Bed 3,Critical ARDS,ARDS,80,123,40,11,433,70,Critical
+2026-11-15 22:57:37.216223,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,16,18,471,79,Stable
+2026-11-15 22:57:38.237928,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,20,17,441,77,Warning
+2026-11-15 22:57:38.237965,ICU Bed 2,Pneumonia Monitoring,Pneumonia,84,133,39,18,433,58,Critical
+2026-11-15 22:57:38.237982,ICU Bed 3,Critical ARDS,ARDS,80,122,40,22,558,67,Critical
+2026-11-15 22:57:38.237995,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,30,489,64,Stable
+2026-11-15 22:57:39.259825,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,18,461,36,Warning
+2026-11-15 22:57:39.259852,ICU Bed 2,Pneumonia Monitoring,Pneumonia,81,135,40,13,646,90,Critical
+2026-11-15 22:57:39.259867,ICU Bed 3,Critical ARDS,ARDS,80,127,40,18,599,96,Critical
+2026-11-15 22:57:39.259881,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,17,26,485,29,Stable
+2026-11-15 22:57:40.282388,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,19,474,64,Stable
+2026-11-15 22:57:40.282417,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,136,39,30,624,47,Critical
+2026-11-15 22:57:40.282431,ICU Bed 3,Critical ARDS,ARDS,81,124,40,25,586,98,Critical
+2026-11-15 22:57:40.282444,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,18,12,600,52,Stable
+2026-11-15 22:57:41.303325,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,19,428,45,Stable
+2026-11-15 22:57:41.303351,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,139,38,15,408,26,Critical
+2026-11-15 22:57:41.303366,ICU Bed 3,Critical ARDS,ARDS,80,121,39,27,514,51,Critical
+2026-11-15 22:57:41.303378,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,19,21,420,27,Stable
+2026-11-15 22:57:42.324800,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,19,10,620,70,Stable
+2026-11-15 22:57:42.324828,ICU Bed 2,Pneumonia Monitoring,Pneumonia,80,137,36,23,568,40,Warning
+2026-11-15 22:57:42.324843,ICU Bed 3,Critical ARDS,ARDS,80,121,40,14,569,95,Critical
+2026-11-15 22:57:42.324857,ICU Bed 4,Sepsis Recovery,Sepsis,97,99,18,29,576,44,Stable
+2026-11-15 22:57:43.346613,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,18,16,575,98,Stable
+2026-11-15 22:57:43.346649,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,120,28,20,591,89,Warning
+2026-11-15 22:57:43.346671,ICU Bed 3,Critical ARDS,ARDS,80,121,40,26,614,90,Critical
+2026-11-15 22:57:43.346689,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,17,25,421,41,Stable
+2026-11-15 22:57:44.366052,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,18,26,585,41,Stable
+2026-11-15 22:57:44.366078,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,116,28,28,457,85,Warning
+2026-11-15 22:57:44.366095,ICU Bed 3,Critical ARDS,ARDS,80,121,40,22,485,59,Critical
+2026-11-15 22:57:44.366107,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,17,10,461,23,Stable
+2026-11-15 22:57:45.389008,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,18,23,619,82,Stable
+2026-11-15 22:57:45.389041,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,113,28,10,620,65,Warning
+2026-11-15 22:57:45.389061,ICU Bed 3,Critical ARDS,ARDS,80,121,40,23,403,52,Critical
+2026-11-15 22:57:45.389081,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,18,10,412,61,Stable
+2026-11-15 22:57:46.409463,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,13,544,44,Stable
+2026-11-15 22:57:46.409490,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,112,26,17,520,31,Warning
+2026-11-15 22:57:46.409505,ICU Bed 3,Critical ARDS,ARDS,80,121,40,24,627,37,Critical
+2026-11-15 22:57:46.409520,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,19,30,522,56,Stable
+2026-11-15 22:57:47.431945,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,19,422,65,Stable
+2026-11-15 22:57:47.431969,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,116,25,27,496,73,Warning
+2026-11-15 22:57:47.431975,ICU Bed 3,Critical ARDS,ARDS,80,126,40,16,492,54,Critical
+2026-11-15 22:57:47.431981,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,22,477,49,Stable
+2026-11-15 22:57:48.450224,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,18,16,530,80,Stable
+2026-11-15 22:57:48.450255,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,116,25,22,529,96,Warning
+2026-11-15 22:57:48.450270,ICU Bed 3,Critical ARDS,ARDS,80,128,40,29,521,97,Critical
+2026-11-15 22:57:48.450282,ICU Bed 4,Sepsis Recovery,Sepsis,98,98,19,16,475,50,Stable
+2026-11-15 22:57:49.466514,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,18,22,425,82,Stable
+2026-11-15 22:57:49.466527,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,118,24,23,515,34,Warning
+2026-11-15 22:57:49.466533,ICU Bed 3,Critical ARDS,ARDS,80,125,38,23,467,86,Critical
+2026-11-15 22:57:49.466538,ICU Bed 4,Sepsis Recovery,Sepsis,98,96,18,22,623,91,Stable
+2026-11-15 22:57:50.486925,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,18,10,550,51,Stable
+2026-11-15 22:57:50.486936,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,120,23,27,602,99,Warning
+2026-11-15 22:57:50.486941,ICU Bed 3,Critical ARDS,ARDS,82,125,40,11,619,66,Critical
+2026-11-15 22:57:50.486946,ICU Bed 4,Sepsis Recovery,Sepsis,98,97,18,24,506,67,Warning
+2026-11-15 22:57:51.502615,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,18,17,650,84,Stable
+2026-11-15 22:57:51.502628,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,118,25,25,642,89,Warning
+2026-11-15 22:57:51.502635,ICU Bed 3,Critical ARDS,ARDS,80,127,39,16,596,28,Critical
+2026-11-15 22:57:51.502641,ICU Bed 4,Sepsis Recovery,Sepsis,94,101,21,16,590,74,Warning
+2026-11-15 22:57:52.518898,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,97,19,18,576,28,Stable
+2026-11-15 22:57:52.518914,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,114,26,24,628,76,Warning
+2026-11-15 22:57:52.518921,ICU Bed 3,Critical ARDS,ARDS,80,131,38,24,625,26,Critical
+2026-11-15 22:57:52.518928,ICU Bed 4,Sepsis Recovery,Sepsis,94,105,22,22,430,46,Warning
+2026-11-15 22:57:53.534712,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,96,20,11,513,71,Stable
+2026-11-15 22:57:53.534739,ICU Bed 2,Pneumonia Monitoring,Pneumonia,93,112,28,13,401,38,Warning
+2026-11-15 22:57:53.534754,ICU Bed 3,Critical ARDS,ARDS,80,134,39,10,452,89,Critical
+2026-11-15 22:57:53.534768,ICU Bed 4,Sepsis Recovery,Sepsis,93,107,23,13,627,50,Warning
+2026-11-15 22:57:54.555481,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,20,11,518,72,Stable
+2026-11-15 22:57:54.555507,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,111,27,17,553,97,Warning
+2026-11-15 22:57:54.555523,ICU Bed 3,Critical ARDS,ARDS,80,139,36,11,415,33,Critical
+2026-11-15 22:57:54.555537,ICU Bed 4,Sepsis Recovery,Sepsis,94,109,23,20,483,25,Warning
+2026-11-15 22:57:55.576631,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,11,517,31,Stable
+2026-11-15 22:57:55.576646,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,108,26,20,537,95,Warning
+2026-11-15 22:57:55.576653,ICU Bed 3,Critical ARDS,ARDS,82,143,35,13,506,34,Critical
+2026-11-15 22:57:55.576660,ICU Bed 4,Sepsis Recovery,Sepsis,93,108,22,25,623,44,Warning
+2026-11-15 22:57:56.597235,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,19,29,560,78,Stable
+2026-11-15 22:57:56.597262,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,110,28,20,445,68,Warning
+2026-11-15 22:57:56.597276,ICU Bed 3,Critical ARDS,ARDS,82,144,35,23,558,33,Critical
+2026-11-15 22:57:56.597289,ICU Bed 4,Sepsis Recovery,Sepsis,94,109,21,14,486,56,Stable
+2026-11-15 22:57:57.618950,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,99,18,24,414,27,Stable
+2026-11-15 22:57:57.618974,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,111,28,13,508,74,Warning
+2026-11-15 22:57:57.618989,ICU Bed 3,Critical ARDS,ARDS,85,140,40,26,529,25,Critical
+2026-11-15 22:57:57.619001,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,28,599,59,Stable
+2026-11-15 22:57:58.640586,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,18,26,420,92,Stable
+2026-11-15 22:57:58.640604,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,108,28,11,403,38,Warning
+2026-11-15 22:57:58.640613,ICU Bed 3,Critical ARDS,ARDS,84,140,38,29,611,28,Critical
+2026-11-15 22:57:58.640621,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,29,568,41,Stable
+2026-11-15 22:57:59.661453,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,19,20,468,35,Stable
+2026-11-15 22:57:59.661480,ICU Bed 2,Pneumonia Monitoring,Pneumonia,91,112,28,21,484,48,Warning
+2026-11-15 22:57:59.661496,ICU Bed 3,Critical ARDS,ARDS,80,136,39,14,462,46,Critical
+2026-11-15 22:57:59.661512,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,23,643,49,Stable
+2026-11-15 22:58:00.683167,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,18,11,452,40,Stable
+2026-11-15 22:58:00.683180,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,110,28,27,559,89,Warning
+2026-11-15 22:58:00.683186,ICU Bed 3,Critical ARDS,ARDS,81,133,40,27,460,53,Critical
+2026-11-15 22:58:00.683191,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,13,631,79,Stable
+2026-11-15 22:58:01.702427,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,17,16,400,22,Stable
+2026-11-15 22:58:01.702458,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,106,28,24,450,67,Warning
+2026-11-15 22:58:01.702469,ICU Bed 3,Critical ARDS,ARDS,80,138,38,22,548,76,Critical
+2026-11-15 22:58:01.702477,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,23,628,36,Stable
+2026-11-15 22:58:02.721262,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,16,24,534,97,Stable
+2026-11-15 22:58:02.721281,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,103,28,15,576,68,Warning
+2026-11-15 22:58:02.721290,ICU Bed 3,Critical ARDS,ARDS,80,135,39,30,535,54,Critical
+2026-11-15 22:58:02.721298,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,29,507,35,Stable
+2026-11-15 22:58:03.742899,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,16,23,509,76,Stable
+2026-11-15 22:58:03.742927,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,103,27,16,633,51,Warning
+2026-11-15 22:58:03.742942,ICU Bed 3,Critical ARDS,ARDS,80,131,37,22,430,29,Critical
+2026-11-15 22:58:03.742955,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,22,493,86,Stable
+2026-11-15 22:58:04.765344,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,15,28,624,52,Stable
+2026-11-15 22:58:04.765381,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,106,26,30,590,35,Warning
+2026-11-15 22:58:04.765403,ICU Bed 3,Critical ARDS,ARDS,81,135,37,29,468,39,Critical
+2026-11-15 22:58:04.765421,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,27,536,30,Stable
+2026-11-15 22:58:05.788665,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,15,10,597,45,Stable
+2026-11-15 22:58:05.788691,ICU Bed 2,Pneumonia Monitoring,Pneumonia,90,105,28,20,467,84,Stable
+2026-11-15 22:58:05.788706,ICU Bed 3,Critical ARDS,ARDS,80,135,37,12,618,100,Critical
+2026-11-15 22:58:05.788717,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,16,559,74,Stable
+2026-11-15 22:58:06.810645,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,14,21,405,50,Stable
+2026-11-15 22:58:06.810685,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,20,22,536,26,Stable
+2026-11-15 22:58:06.810713,ICU Bed 3,Critical ARDS,ARDS,80,131,36,18,432,97,Critical
+2026-11-15 22:58:06.810790,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,23,547,80,Stable
+2026-11-15 22:58:07.837293,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,14,29,573,75,Stable
+2026-11-15 22:58:07.837307,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,19,30,643,56,Stable
+2026-11-15 22:58:07.837314,ICU Bed 3,Critical ARDS,ARDS,80,136,34,22,608,71,Critical
+2026-11-15 22:58:07.837319,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,19,21,476,72,Stable
+2026-11-15 22:58:08.854603,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,15,24,409,78,Stable
+2026-11-15 22:58:08.854614,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,93,18,15,599,22,Stable
+2026-11-15 22:58:08.854619,ICU Bed 3,Critical ARDS,ARDS,82,140,32,15,624,23,Critical
+2026-11-15 22:58:08.854624,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,20,26,595,94,Stable
+2026-11-15 22:58:09.867735,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,99,100,16,12,490,59,Stable
+2026-11-15 22:58:09.867752,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,90,17,25,560,70,Stable
+2026-11-15 22:58:09.867761,ICU Bed 3,Critical ARDS,ARDS,80,134,30,20,570,93,Critical
+2026-11-15 22:58:09.867769,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,19,24,610,82,Stable
+2026-11-15 22:58:10.885835,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,15,16,539,56,Stable
+2026-11-15 22:58:10.885847,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,93,15,13,601,65,Stable
+2026-11-15 22:58:10.885853,ICU Bed 3,Critical ARDS,ARDS,80,131,30,14,525,28,Critical
+2026-11-15 22:58:10.885858,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,19,11,646,47,Stable
+2026-11-15 22:58:11.906233,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,15,13,584,47,Stable
+2026-11-15 22:58:11.906245,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,13,26,609,97,Stable
+2026-11-15 22:58:11.906250,ICU Bed 3,Critical ARDS,ARDS,80,136,29,21,433,67,Critical
+2026-11-15 22:58:11.906254,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,20,16,583,58,Stable
+2026-11-15 22:58:12.923882,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,15,25,458,32,Stable
+2026-11-15 22:58:12.923893,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,95,12,10,509,75,Stable
+2026-11-15 22:58:12.923899,ICU Bed 3,Critical ARDS,ARDS,80,139,30,13,403,90,Critical
+2026-11-15 22:58:12.923904,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,20,15,580,49,Stable
+2026-11-15 22:58:13.939990,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,14,20,613,33,Stable
+2026-11-15 22:58:13.940010,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,13,23,578,72,Stable
+2026-11-15 22:58:13.940016,ICU Bed 3,Critical ARDS,ARDS,81,134,29,15,535,33,Critical
+2026-11-15 22:58:13.940021,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,19,24,419,25,Stable
+2026-11-15 22:58:14.955300,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,13,15,471,41,Stable
+2026-11-15 22:58:14.955312,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,95,12,23,563,78,Stable
+2026-11-15 22:58:14.955318,ICU Bed 3,Critical ARDS,ARDS,80,138,30,11,587,68,Critical
+2026-11-15 22:58:14.955322,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,18,11,646,65,Stable
+2026-11-15 22:58:15.971316,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,13,29,431,90,Stable
+2026-11-15 22:58:15.971327,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,99,14,20,608,80,Stable
+2026-11-15 22:58:15.971332,ICU Bed 3,Critical ARDS,ARDS,81,143,33,22,442,30,Critical
+2026-11-15 22:58:15.971337,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,18,19,645,64,Stable
+2026-11-15 22:58:16.988471,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,13,15,515,85,Stable
+2026-11-15 22:58:16.988488,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,16,30,564,22,Stable
+2026-11-15 22:58:16.988497,ICU Bed 3,Critical ARDS,ARDS,80,149,30,27,414,67,Critical
+2026-11-15 22:58:16.988504,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,18,23,534,57,Stable
+2026-11-15 22:58:18.005856,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,12,13,628,99,Stable
+2026-11-15 22:58:18.005933,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,100,17,29,450,96,Stable
+2026-11-15 22:58:18.005958,ICU Bed 3,Critical ARDS,ARDS,80,150,33,12,636,86,Critical
+2026-11-15 22:58:18.005979,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,16,593,55,Stable
+2026-11-15 22:58:19.026428,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,99,12,30,635,66,Stable
+2026-11-15 22:58:19.026440,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,100,18,16,519,86,Stable
+2026-11-15 22:58:19.026446,ICU Bed 3,Critical ARDS,ARDS,80,150,37,29,417,60,Critical
+2026-11-15 22:58:19.026451,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,30,413,26,Stable
+2026-11-15 22:58:20.047440,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,12,25,621,92,Stable
+2026-11-15 22:58:20.047466,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,100,17,11,420,85,Stable
+2026-11-15 22:58:20.047475,ICU Bed 3,Critical ARDS,ARDS,80,150,39,21,444,81,Critical
+2026-11-15 22:58:20.047484,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,20,27,443,83,Stable
+2026-11-15 22:58:21.058711,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,12,20,570,68,Stable
+2026-11-15 22:58:21.058737,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,16,11,486,50,Stable
+2026-11-15 22:58:21.058753,ICU Bed 3,Critical ARDS,ARDS,83,148,40,29,648,38,Critical
+2026-11-15 22:58:21.058766,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,19,28,567,86,Stable
+2026-11-15 22:58:22.079340,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,98,12,21,573,47,Stable
+2026-11-15 22:58:22.079352,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,19,17,598,98,Stable
+2026-11-15 22:58:22.079358,ICU Bed 3,Critical ARDS,ARDS,80,142,40,10,430,26,Critical
+2026-11-15 22:58:22.079362,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,18,26,409,65,Stable
+2026-11-15 22:58:23.102437,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,13,23,518,64,Stable
+2026-11-15 22:58:23.102465,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,94,20,11,496,93,Stable
+2026-11-15 22:58:23.102480,ICU Bed 3,Critical ARDS,ARDS,81,145,40,25,506,38,Critical
+2026-11-15 22:58:23.102493,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,17,15,468,94,Stable
+2026-11-15 22:58:24.116234,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,95,12,28,441,98,Stable
+2026-11-15 22:58:24.116249,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,94,19,22,552,81,Stable
+2026-11-15 22:58:24.116258,ICU Bed 3,Critical ARDS,ARDS,81,142,40,16,582,57,Critical
+2026-11-15 22:58:24.116264,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,18,12,650,47,Stable
+2026-11-15 22:58:25.135833,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,93,12,11,540,23,Stable
+2026-11-15 22:58:25.135849,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,97,20,23,499,31,Stable
+2026-11-15 22:58:25.135859,ICU Bed 3,Critical ARDS,ARDS,80,140,40,14,582,69,Critical
+2026-11-15 22:58:25.135868,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,18,12,490,45,Stable
+2026-11-15 22:58:26.154346,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,12,29,631,33,Stable
+2026-11-15 22:58:26.154371,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,99,18,11,638,63,Stable
+2026-11-15 22:58:26.154386,ICU Bed 3,Critical ARDS,ARDS,83,141,40,10,469,45,Critical
+2026-11-15 22:58:26.154398,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,17,20,465,45,Stable
+2026-11-15 22:58:27.174641,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,95,13,14,623,51,Stable
+2026-11-15 22:58:27.174683,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,96,20,10,603,69,Stable
+2026-11-15 22:58:27.174705,ICU Bed 3,Critical ARDS,ARDS,81,147,40,11,600,64,Critical
+2026-11-15 22:58:27.174726,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,30,543,30,Stable
+2026-11-15 22:58:28.196177,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,12,19,639,67,Stable
+2026-11-15 22:58:28.196192,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,99,19,12,590,25,Stable
+2026-11-15 22:58:28.196200,ICU Bed 3,Critical ARDS,ARDS,81,150,39,27,569,48,Critical
+2026-11-15 22:58:28.196207,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,22,431,33,Stable
+2026-11-15 22:58:29.216482,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,94,13,13,424,70,Stable
+2026-11-15 22:58:29.216499,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,97,18,28,412,22,Stable
+2026-11-15 22:58:29.216508,ICU Bed 3,Critical ARDS,ARDS,82,148,40,25,524,94,Critical
+2026-11-15 22:58:29.216516,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,15,17,622,93,Stable
+2026-11-15 22:58:30.230275,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,96,14,30,529,64,Stable
+2026-11-15 22:58:30.230310,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,94,20,17,431,53,Stable
+2026-11-15 22:58:30.230331,ICU Bed 3,Critical ARDS,ARDS,83,144,40,10,627,45,Critical
+2026-11-15 22:58:30.230352,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,14,23,526,50,Stable
+2026-11-15 22:58:31.250733,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,95,15,17,451,47,Stable
+2026-11-15 22:58:31.250759,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,97,20,29,563,25,Stable
+2026-11-15 22:58:31.250774,ICU Bed 3,Critical ARDS,ARDS,80,141,40,23,492,47,Critical
+2026-11-15 22:58:31.250788,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,14,13,565,32,Stable
+2026-11-15 22:58:32.268671,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,95,14,26,422,91,Stable
+2026-11-15 22:58:32.268699,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,93,20,22,528,89,Stable
+2026-11-15 22:58:32.268713,ICU Bed 3,Critical ARDS,ARDS,80,136,40,18,586,34,Critical
+2026-11-15 22:58:32.268724,ICU Bed 4,Sepsis Recovery,Sepsis,95,100,13,25,480,40,Stable
+2026-11-15 22:58:33.284730,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,97,13,27,497,65,Stable
+2026-11-15 22:58:33.284757,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,91,20,26,559,83,Stable
+2026-11-15 22:58:33.284772,ICU Bed 3,Critical ARDS,ARDS,83,139,40,18,557,92,Critical
+2026-11-15 22:58:33.284784,ICU Bed 4,Sepsis Recovery,Sepsis,95,98,14,24,604,23,Stable
+2026-11-15 22:58:34.300588,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,98,12,21,523,56,Stable
+2026-11-15 22:58:34.300615,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,91,20,17,433,75,Stable
+2026-11-15 22:58:34.300630,ICU Bed 3,Critical ARDS,ARDS,84,137,40,16,459,79,Critical
+2026-11-15 22:58:34.300644,ICU Bed 4,Sepsis Recovery,Sepsis,96,98,14,30,505,57,Stable
+2026-11-15 22:58:35.315125,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,12,16,634,30,Stable
+2026-11-15 22:58:35.315141,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,95,20,15,609,49,Stable
+2026-11-15 22:58:35.315149,ICU Bed 3,Critical ARDS,ARDS,85,139,37,19,596,41,Critical
+2026-11-15 22:58:35.315158,ICU Bed 4,Sepsis Recovery,Sepsis,95,99,13,18,481,30,Stable
+2026-11-15 22:58:36.323489,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,98,12,21,414,29,Warning
+2026-11-15 22:58:36.323513,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,94,20,14,506,58,Stable
+2026-11-15 22:58:36.323527,ICU Bed 3,Critical ARDS,ARDS,87,138,39,30,402,32,Critical
+2026-11-15 22:58:36.323540,ICU Bed 4,Sepsis Recovery,Sepsis,96,100,13,16,552,77,Stable
+2026-11-15 22:58:37.332714,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,94,101,21,17,640,77,Warning
+2026-11-15 22:58:37.332741,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,98,20,22,524,30,Stable
+2026-11-15 22:58:37.332757,ICU Bed 3,Critical ARDS,ARDS,83,137,37,19,647,66,Critical
+2026-11-15 22:58:37.332771,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,14,25,451,81,Stable
+2026-11-15 22:58:38.344916,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,101,21,20,504,52,Warning
+2026-11-15 22:58:38.344958,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,95,20,30,630,28,Stable
+2026-11-15 22:58:38.344983,ICU Bed 3,Critical ARDS,ARDS,80,136,38,16,584,54,Critical
+2026-11-15 22:58:38.345006,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,15,20,559,28,Stable
+2026-11-15 22:58:39.359479,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,93,103,21,26,587,21,Warning
+2026-11-15 22:58:39.359491,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,94,20,29,634,42,Stable
+2026-11-15 22:58:39.359496,ICU Bed 3,Critical ARDS,ARDS,80,142,37,20,531,39,Critical
+2026-11-15 22:58:39.359501,ICU Bed 4,Sepsis Recovery,Sepsis,97,99,15,28,541,57,Stable
+2026-11-15 22:58:40.370662,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,104,22,18,419,31,Warning
+2026-11-15 22:58:40.370682,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,95,20,18,508,86,Stable
+2026-11-15 22:58:40.370691,ICU Bed 3,Critical ARDS,ARDS,80,143,39,27,532,29,Critical
+2026-11-15 22:58:40.370699,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,15,27,460,34,Stable
+2026-11-15 22:58:41.398621,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,92,102,22,15,566,90,Stable
+2026-11-15 22:58:41.398635,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,94,19,10,480,63,Stable
+2026-11-15 22:58:41.398641,ICU Bed 3,Critical ARDS,ARDS,80,143,40,22,511,50,Critical
+2026-11-15 22:58:41.398645,ICU Bed 4,Sepsis Recovery,Sepsis,96,99,15,11,521,89,Stable
+2026-11-15 22:58:42.406577,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,20,20,597,26,Stable
+2026-11-15 22:58:42.406588,ICU Bed 2,Pneumonia Monitoring,Pneumonia,97,95,19,11,573,25,Stable
+2026-11-15 22:58:42.406595,ICU Bed 3,Critical ARDS,ARDS,80,143,40,18,643,64,Critical
+2026-11-15 22:58:42.406599,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,15,27,633,35,Stable
+2026-11-15 22:58:43.417496,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,19,29,558,52,Stable
+2026-11-15 22:58:43.417506,ICU Bed 2,Pneumonia Monitoring,Pneumonia,95,91,18,16,412,78,Stable
+2026-11-15 22:58:43.417512,ICU Bed 3,Critical ARDS,ARDS,81,144,37,14,468,56,Critical
+2026-11-15 22:58:43.417517,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,15,17,605,72,Stable
+2026-11-15 22:58:44.424833,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,20,14,628,43,Stable
+2026-11-15 22:58:44.424845,ICU Bed 2,Pneumonia Monitoring,Pneumonia,96,87,19,22,490,32,Warning
+2026-11-15 22:58:44.424851,ICU Bed 3,Critical ARDS,ARDS,81,140,38,25,448,23,Critical
+2026-11-15 22:58:44.424856,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,16,15,574,46,Stable
+2026-11-15 22:58:45.436097,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,20,11,507,66,Stable
+2026-11-15 22:58:45.436110,ICU Bed 2,Pneumonia Monitoring,Pneumonia,94,101,21,30,618,63,Warning
+2026-11-15 22:58:45.436116,ICU Bed 3,Critical ARDS,ARDS,80,141,37,13,620,73,Critical
+2026-11-15 22:58:45.436121,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,25,646,91,Stable
+2026-11-15 22:58:46.456926,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,20,26,560,32,Stable
+2026-11-15 22:58:46.456945,ICU Bed 2,Pneumonia Monitoring,Pneumonia,92,105,21,29,521,55,Critical
+2026-11-15 22:58:46.456954,ICU Bed 3,Critical ARDS,ARDS,81,144,36,24,640,97,Critical
+2026-11-15 22:58:46.456962,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,15,20,555,87,Stable
+2026-11-15 22:58:47.507592,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,99,19,18,491,80,Stable
+2026-11-15 22:58:47.507605,ICU Bed 2,Pneumonia Monitoring,Pneumonia,89,121,29,24,438,77,Critical
+2026-11-15 22:58:47.507610,ICU Bed 3,Critical ARDS,ARDS,81,146,38,11,645,81,Critical
+2026-11-15 22:58:47.507615,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,10,494,61,Stable
+2026-11-15 22:58:48.516391,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,18,30,477,99,Stable
+2026-11-15 22:58:48.516410,ICU Bed 2,Pneumonia Monitoring,Pneumonia,86,123,29,27,405,95,Critical
+2026-11-15 22:58:48.516418,ICU Bed 3,Critical ARDS,ARDS,80,149,40,21,424,44,Critical
+2026-11-15 22:58:48.516425,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,15,30,519,97,Stable
+2026-11-15 22:58:49.526696,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,98,100,17,26,639,100,Stable
+2026-11-15 22:58:49.526707,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,126,29,26,517,87,Critical
+2026-11-15 22:58:49.526713,ICU Bed 3,Critical ARDS,ARDS,80,144,37,13,612,95,Critical
+2026-11-15 22:58:49.526717,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,15,29,586,56,Stable
+2026-11-15 22:58:50.536754,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,97,100,18,21,630,29,Stable
+2026-11-15 22:58:50.536767,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,122,31,13,470,78,Critical
+2026-11-15 22:58:50.536774,ICU Bed 3,Critical ARDS,ARDS,80,148,36,19,475,61,Critical
+2026-11-15 22:58:50.536779,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,15,11,517,69,Stable
+2026-11-15 22:58:51.545395,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,18,27,423,92,Stable
+2026-11-15 22:58:51.545408,ICU Bed 2,Pneumonia Monitoring,Pneumonia,88,125,34,13,404,21,Critical
+2026-11-15 22:58:51.545413,ICU Bed 3,Critical ARDS,ARDS,80,142,35,17,565,93,Critical
+2026-11-15 22:58:51.545417,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,16,19,418,38,Stable
+2026-11-15 22:58:52.557115,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,96,100,17,10,580,51,Stable
+2026-11-15 22:58:52.557127,ICU Bed 2,Pneumonia Monitoring,Pneumonia,88,124,36,21,502,55,Critical
+2026-11-15 22:58:52.557132,ICU Bed 3,Critical ARDS,ARDS,80,140,40,21,641,82,Critical
+2026-11-15 22:58:52.557137,ICU Bed 4,Sepsis Recovery,Sepsis,100,98,15,27,537,58,Stable
+2026-11-15 22:58:53.566080,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,16,30,627,79,Stable
+2026-11-15 22:58:53.566091,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,122,35,30,422,24,Critical
+2026-11-15 22:58:53.566096,ICU Bed 3,Critical ARDS,ARDS,80,140,40,30,478,24,Critical
+2026-11-15 22:58:53.566100,ICU Bed 4,Sepsis Recovery,Sepsis,100,100,14,23,626,72,Stable
+2026-11-15 22:58:54.573397,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,16,11,640,69,Stable
+2026-11-15 22:58:54.573416,ICU Bed 2,Pneumonia Monitoring,Pneumonia,87,123,38,23,567,58,Critical
+2026-11-15 22:58:54.573424,ICU Bed 3,Critical ARDS,ARDS,80,135,40,20,634,76,Critical
+2026-11-15 22:58:54.573431,ICU Bed 4,Sepsis Recovery,Sepsis,99,100,15,25,582,80,Stable
+2026-11-15 22:58:55.582821,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,16,20,502,93,Stable
+2026-11-15 22:58:55.582831,ICU Bed 2,Pneumonia Monitoring,Pneumonia,85,124,40,16,570,47,Critical
+2026-11-15 22:58:55.582836,ICU Bed 3,Critical ARDS,ARDS,80,132,39,14,446,94,Critical
+2026-11-15 22:58:55.582840,ICU Bed 4,Sepsis Recovery,Sepsis,98,100,16,22,555,85,Stable
+2026-11-15 22:58:56.590462,ICU Bed 1,Post-Surgery Stable,Post-Surgery Recovery,95,100,15,30,554,50,Stable
+2026-11-15 22:58:56.590481,ICU Bed 2,Pneumonia Monitoring,Pneumonia,83,123,39,26,506,55,Critical
+2026-11-15 22:58:56.590491,ICU Bed 3,Critical ARDS,ARDS,80,134,40,23,565,43,Critical
+2026-11-15 22:58:56.590498,ICU Bed 4,Sepsis Recovery,Sepsis,97,100,16,26,537,59,Stable
